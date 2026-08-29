@@ -1,0 +1,4613 @@
+﻿Id,Label,stakeholder_type
+1,대한상공회의소,Private Sector
+2,도시정부,Central Government
+3,서울,Other
+4,서울디지털재단,Public Institution
+5,서울시,Other
+6,어디나지원단,Other
+7,오늘,Other
+8,LG,Private Sector
+9,연합뉴스,Other
+10,아시아투데이,Other
+11,인턴,Other
+12,베트남,Other
+13,중소벤처기업부,Central Government
+14,경기연구원,Other
+15,서울시의회,Local Government
+16,국토교통부,Central Government
+17,비씨디이엔씨,Other
+18,스마트시티,Other
+19,양주시,Other
+20,CES,Other
+21,인천경제자유구역청,Central Government
+22,인천경제청,Central Government
+23,대한상의서,Other
+24,GWIST,Other
+25,SOC,Other
+26,강원랜드,Other
+27,국민의힘,Other
+28,동서고속,Other
+29,춘천교도소,Other
+30,KT,Private Sector
+31,수원 ITS,Other
+32,수원컨벤션센터,Other
+33,아태총회,Other
+34,㈜비씨디이엔씨,Private Sector
+35,국토부,Central Government
+36,딜로이트,Other
+37,스마트시티 이니셔티브,Other
+38,신흥국,Other
+39,엔비디아,Other
+40,한국딜로이트그룹,Other
+41,양양,Other
+42,원주,Other
+43,정책총괄본부,Other
+44,평창,Other
+45,국제대,Other
+46,한국,Other
+47,유일,Other
+48,인천,Other
+49,ITS,Other
+50,MBTI,Other
+51,UA,Other
+52,경기도무용단,Other
+53,경기시나위오케스트라,Other
+54,경부선,Central Government
+55,광교호수공원,Other
+56,도시안전통합센터,Other
+57,수원,Other
+58,수원시,Other
+59,수원시립합창단,Other
+60,조직위원회,Central Government
+61,진우에이티에스,Other
+62,한국도로공사,Other
+63,ECC,Other
+64,KCA,Other
+65,Kp,Other
+66,KpqC 공모전,Other
+67,LG유플러스,Private Sector
+68,NIA,Other
+69,NIST,Other
+70,TTA,Other
+71,국립표준기술연구소(NIST,Public Institution
+72,정부,Central Government
+73,주엄개,Other
+74,한국방송통신전파진흥원(,Public Institution
+75,한국인터넷진흥원(KISA),Public Institution
+76,한국정보통신기술협회,Private Sector
+77,한국정보통신기술협회(TTA),Private Sector
+78,한국지능정보사회진흥원,Public Institution
+79,한국지능정보사회진흥원(,Public Institution
+80,CES 2026,Other
+81,Consumer Electronics Show,Other
+82,Expo,Other
+83,LVCC,Other
+84,대전,Other
+85,대전시의회,Local Government
+86,민주당,Other
+87,송도,Other
+88,의회,Other
+89,아주대학교,Academia
+90,광명,Other
+91,교육지원청,Central Government
+92,도시개발,Other
+93,삼성,Private Sector
+94,광주,Other
+95,현대,Private Sector
+96,평택,Other
+97,화성,Other
+98,수원시수원,Other
+99,TSMC,Other
+100,국가과학기술위원회,Central Government
+101,대만,Other
+102,폭스콘,Other
+103,소프트뱅크,Other
+104,테슬라,Other
+105,SK그룹,Private Sector
+106,SK하이닉스,Private Sector
+107,젠슨,Other
+108,젠슨 황,Other
+109,HBM4,Other
+110,미디어텍,Other
+111,하이닉스,Other
+112,YTN,Other
+113,수원특례시,Other
+114,미래산업,Other
+115,SoC,Other
+116,정보통신,Private Sector
+117,애플,Other
+118,에이수스,Other
+119,기아,Private Sector
+120,현대차,Private Sector
+121,현대차·,Private Sector
+122,현대차·기아,Private Sector
+123,NATO,Other
+124,러시아,Other
+125,북대서양조약기구,Other
+126,우크라이나,Other
+127,행정부,Central Government
+128,동부,Central Government
+129,디와이디,Other
+130,삼부토건,Central Government
+131,강릉,Other
+132,강릉시,Other
+133,교통부,Central Government
+134,드론쇼,Other
+135,삼성디스플레이,Private Sector
+136,딥엑스,Other
+137,LG유플,Private Sector
+138,소트랩,Other
+139,LGU+,Private Sector
+140,한국정보통신기술협회(,Private Sector
+141,KISA,Other
+142,한국방송통신전파진흥원,Public Institution
+143,Wi,Other
+144,app,Other
+145,fina,Other
+146,un,Other
+147,wi,Other
+148,NI,Other
+149,cha,Other
+150,cu,Other
+151,dri,Other
+152,eac,Other
+153,the,Other
+154,fed,Other
+155,강원도,Other
+156,CTA,Other
+157,IFEZ 홍보관,Other
+158,미국소비자기술협회,Other
+159,국립표준기술연구소,Public Institution
+160,표준기술연구소,Other
+161,네옴시,Other
+162,네옴시티,Other
+163,사우디,Other
+164,삼성물산,Private Sector
+165,해외건설협회,Other
+166,중동 지역,Other
+167,현대건설,Private Sector
+168,시공사,Other
+169,IMD,Other
+170,국제경영개발원,Other
+171,한창,Other
+172,SCMP,Other
+173,중국,Other
+174,화웨이,Other
+175,구글,Other
+176,명문대,Other
+177,충남도,Other
+178,노벨상,Other
+179,셀트리온,Other
+180,제주도,Other
+181,SMR,Other
+182,SSNC,Other
+183,한수원,Other
+184,국회,Central Government
+185,대한민국,Other
+186,세울,Other
+187,IGC,Other
+188,IGC운영재단,Public Institution
+189,겐트대 글로벌캠퍼스,Other
+190,마린유겐트연구소,Other
+191,유타대 아시아캠퍼스,Other
+192,한국뉴욕주립대,Other
+193,한국스탠포드센터,Other
+194,아세테크,Other
+195,유니콘팩토리,Other
+196,트위니,Other
+197,MOU,Other
+198,인프라부,Central Government
+199,한국건설기술연구원,Other
+200,한동대학교,Academia
+201,한국건설기술연구원(KICT),Other
+202,부산,Central Government
+203,부산창조경제혁신센터,Central Government
+204,APEC,Other
+205,ITF,Other
+206,OECD,Other
+207,경제협력개발기구,Other
+208,국제교통포럼,Other
+209,아시아태평양경제협력체,Other
+210,지역개발정책위원회,Central Government
+211,정책위원회,Central Government
+212,유상증자,Other
+213,이에이트,Other
+214,픽스포디,Other
+215,NFL,Other
+216,PIX4D,Other
+217,타깃,Other
+218,리서치,Other
+219,부산광역시,Central Government
+220,부산창경,Central Government
+221,경찰청,Central Government
+222,기초지자체,Local Government
+223,영국,Other
+224,경제일자리국,Other
+225,기획경제국,Other
+226,기획소통국,Other
+227,의정부시,Central Government
+228,건설부,Central Government
+229,삼정KPMG,Other
+230,자원,Other
+231,중앙아시아,Other
+232,한국경제신문,Other
+233,현대그룹,Private Sector
+234,의장,Other
+235,케이패스,Other
+236,웨스틴,Other
+237,조선호텔,Other
+238,회의서,Other
+239,IoT,Other
+240,이노비즈,Other
+241,조달청,Central Government
+242,교원,Other
+243,진로,Other
+244,세종교육청,Central Government
+245,세종시교육청,Central Government
+246,진로교육원,Other
+247,K-패스,Other
+248,미국,Other
+249,백악관,Other
+250,석유화학,Other
+251,이스라엘,Other
+252,이란,Other
+253,하마스,Other
+254,헤즈볼라,Other
+255,장관회,Other
+256,폴란드,Other
+257,홍주초등학교,Academia
+258,국토교통,Other
+259,기금지역정책부,Central Government
+260,삼성전자,Private Sector
+261,인천시,Other
+262,삼성바이오로직스,Private Sector
+263,판교,Other
+264,2030,Other
+265,경민대,Other
+266,경민대학교,Academia
+267,부장교사,Central Government
+268,의정부공고,Central Government
+269,김포시,Other
+270,단국대,Other
+271,대학원,Academia
+272,스마트로,Other
+273,경제자유구역,Other
+274,울산,Other
+275,유럽,Other
+276,한국대사관,Other
+277,IFEZ,Other
+278,대표단,Other
+279,인천국제공항공사,Other
+280,인민위원회,Central Government
+281,인천공항,Other
+282,인천광역시청,Central Government
+283,자유무역지대,Other
+284,제공,Other
+285,시의회,Local Government
+286,USTR,Other
+287,네이버,Private Sector
+288,미국무역대표부,Central Government
+289,티맵모빌리티,Other
+290,경북대,Other
+291,대구시,Other
+292,첨단정보통신융합산업기술원,Private Sector
+293,티센터,Other
+294,한국데이터산업진흥원,Public Institution
+295,NASA,Other
+296,국가기술표준원,Other
+297,산업통상자원부,Central Government
+298,머니투데이,Other
+299,스마트팜,Other
+300,HVAC,Other
+301,LG전자,Private Sector
+302,대한무역투자진흥공사,Other
+303,LIG넥스원,Other
+304,방산,Other
+305,GM,Other
+306,현대자동차,Private Sector
+307,단국대학교,Academia
+308,대학,Academia
+309,김포시청,Central Government
+310,의정부공업고등학교,Central Government
+311,의정부교육지원청,Central Government
+312,말레이시아,Other
+313,인도,Other
+314,인도네시아,Other
+315,신흥,Other
+316,평가위,Other
+317,GCC,Other
+318,HMM,Other
+319,HMMME,Other
+320,걸프협력회의,Other
+321,디리야,Other
+322,미스크,Other
+323,일본,Other
+324,토요타,Other
+325,현대차그룹,Private Sector
+326,광역자치단체,Local Government
+327,누리집,Other
+328,경북대학교,Academia
+329,대구,Other
+330,미래혁신성장실장,Other
+331,수성알파시티 스마트시티센터,Other
+332,사우디아라비아,Other
+333,광주대,Other
+334,광주대학교,Academia
+335,atbo,Other
+336,간부회,Central Government
+337,고양시,Other
+338,농림축산식품부,Central Government
+339,도시산업,Other
+340,ETRI,Other
+341,한국전자통신연구원,Private Sector
+342,과학기술정보통신부,Central Government
+343,UAM,Other
+344,도심항공교통,Other
+345,슈퍼널,Other
+346,UNIST,Academia
+347,울산시,Other
+348,울주군,Other
+349,과기정통부,Central Government
+350,스마트시티센터,Other
+351,교통안전,Other
+352,명선초,Other
+353,명선초등학교,Academia
+354,포스코고,Private Sector
+355,MS,Other
+356,Un,Other
+357,ata Industry Promotion Agency,Other
+358,expo,Other
+359,fie,Other
+360,대구광역시,Other
+361,ESG센터,Other
+362,㈜엔엠에프,Private Sector
+363,㈜합동전기,Private Sector
+364,대전사회혁신센터,Other
+365,스마트시티건축공학,Other
+366,충남대,Other
+367,KAIST,Academia
+368,대덕특구,Other
+369,출연연,Other
+370,한국항공우주연구원,Other
+371,교육부,Central Government
+372,사립대,Other
+373,산학협력,Other
+374,세종,Other
+375,세종시,Other
+376,수성,Other
+377,충남대학교,Academia
+378,한밭대,Other
+379,혁신도시,Other
+380,상임위,Other
+381,한양,Other
+382,개혁신당,Other
+383,더불어민주당,Other
+384,복지부,Central Government
+385,건강보험심사평가원,Other
+386,국민건강보험공단,Public Institution
+387,공동,Other
+388,수도권,Other
+389,세종특별자치시,Other
+390,지방분권,Other
+391,천안,Other
+392,초중등,Other
+393,충남,Other
+394,국회의사당,Central Government
+395,금강,Other
+396,대전시,Other
+397,세종의사당,Other
+398,여성가족부,Central Government
+399,중도일보,Other
+400,충북,Other
+401,충청,Central Government
+402,충청권,Central Government
+403,대덕연구개발특구,Other
+404,대전상공회의소,Private Sector
+405,대전세종연구원,Other
+406,팬데믹,Other
+407,대한석탄공사,Other
+408,한국광해광업공단,Public Institution
+409,참여정부,Central Government
+410,도로교통공단,Public Institution
+411,충북대,Other
+412,배재대,Other
+413,보령,Other
+414,청주,Central Government
+415,한국전력공사,Other
+416,한국과학기술기획평가원,Other
+417,한국관광공사,Other
+418,인천경제자유구역청인천경제자유구역청,Central Government
+419,IITP,Other
+420,KADIF,Other
+421,산학협력단,Other
+422,정보통신기획평가원,Private Sector
+423,융복합대학,Academia
+424,신정중학교,Academia
+425,수성알파시티,Other
+426,Cha,Other
+427,Cu,Other
+428,shi,Other
+429,NIPA,Other
+430,연세대,Other
+431,정보통신산업진흥원,Public Institution
+432,행정안전부,Central Government
+433,IT서비스학회,Other
+434,정보대학원,Academia
+435,춘계학술대회,Other
+436,한국로봇산업진흥원,Public Institution
+437,포스코DX,Private Sector
+438,한국IT서비스학회장,Other
+439,한화로보틱스,Private Sector
+440,현대자동차그룹,Private Sector
+441,한국지능정보사회진흥원(NIA),Public Institution
+442,LG그룹,Private Sector
+443,메타,Other
+444,IBM,Other
+445,마이크로소프트,Other
+446,디즈니,Other
+447,산림청,Central Government
+448,새만금개발청,Central Government
+449,행정중심복합도시건설청,Central Government
+450,메타버스,Other
+451,ABB,Other
+452,대구시청,Central Government
+453,LG CNS,Private Sector
+454,한양대학교,Academia
+455,세라젬,Other
+456,국토지리정보원,Other
+457,네이버랩스,Private Sector
+458,유튜브,Other
+459,EXPO,Other
+460,라온피플,Other
+461,하이펜,Other
+462,회의록,Other
+463,라온로드,Other
+464,국가정보원,Other
+465,공간정보협의체,Other
+466,민간위,Other
+467,기술정보통신부,Central Government
+468,구청,Central Government
+469,산업별,Other
+470,용산구청,Central Government
+471,인천광역시,Other
+472,재무장관회의,Other
+473,O2O,Other
+474,한국전자기술연구원,Other
+475,엑스포,Other
+476,HMGMA,Other
+477,폭스바겐,Other
+478,토요타그룹,Other
+479,현대오토에버,Private Sector
+480,포스코고등학교,Academia
+481,국토지리정보원장,Other
+482,산업공학과,Other
+483,카카오,Private Sector
+484,VOA건축사사무소,Other
+485,SCEWC,Other
+486,성남시,Other
+487,성남시장,Other
+488,성남시청,Central Government
+489,피라,Other
+490,Soc,Other
+491,fig,Other
+492,sig,Other
+493,soc,Other
+494,too,Other
+495,사회혁신센터,Other
+496,고위관리회의,Other
+497,Adm,Other
+498,Aff,Other
+499,Awa,Other
+500,Google,Other
+501,Google 번역,Other
+502,adm,Other
+503,bri,Other
+504,deta,Other
+505,fai,Other
+506,iss,Other
+507,nea,Other
+508,obs,Other
+509,spl,Other
+510,who,Other
+511,Euro,Other
+512,Japan,Other
+513,Kis,Other
+514,awa,Other
+515,hug,Other
+516,sat,Other
+517,목포,Other
+518,프랑스,Other
+519,Tokyo,Other
+520,동경대,Other
+521,imm,Other
+522,mec,Other
+523,고려대학교,Academia
+524,경기대,Other
+525,스페인,Other
+526,소고기,Other
+527,이대,Other
+528,국회도서관,Central Government
+529,세종특별자치시장,Other
+530,대전컨벤션센터,Other
+531,수자원,Other
+532,수자원공사,Other
+533,한국수자원공사,Other
+534,세종시장,Other
+535,전략사,Other
+536,행안부,Central Government
+537,Shi,Other
+538,두바이,Other
+539,아부다비,Central Government
+540,트위터,Other
+541,A2G,Other
+542,G42,Other
+543,싱가포르,Other
+544,오토노머스에이투지,Other
+545,육상교통청,Central Government
+546,M1UCS,Other
+547,모빌리티원,Other
+548,두산에너빌리티,Private Sector
+549,A2D,Other
+550,킬사글로벌,Other
+551,가천대,Other
+552,과학기술정보방송통신위원회,Central Government
+553,구글코리아,Other
+554,무역대표부,Central Government
+555,경희대,Other
+556,지리학과,Other
+557,메가시티,Other
+558,새만금,Other
+559,새만금개발청장,Central Government
+560,새만금청,Central Government
+561,ICT연구센터,Other
+562,ITRC,Other
+563,고려대,Other
+564,과기부,Central Government
+565,유공,Other
+566,한국연구재단,Public Institution
+567,SBS,Other
+568,가천대학교,Academia
+569,공항철도,Other
+570,한국공간정보산업협,Other
+571,에스오에스랩,Other
+572,이엠에스,Other
+573,중소벤처기업진흥공단,Central Government
+574,청년창업사관학교,Central Government
+575,성균관대,Other
+576,스타트업얼라이언스,Private Sector
+577,카이스트,Other
+578,한국과학기술정보연구원(KISTI),Other
+579,개인정보 보호법,Other
+580,바이두,Other
+581,스타트업,Private Sector
+582,한국과학기술정보연구원(KISTI,Other
+583,한국과학기술정보연구원,Other
+584,K-국,Other
+585,대상,Other
+586,대학(,Academia
+587,연세대학교,Academia
+588,DCC,Other
+589,KISTI,Other
+590,국가철도공단,Public Institution
+591,한국가스기술공사,Other
+592,한국서부발전,Central Government
+593,한국중부발전,Central Government
+594,한국철도공사,Other
+595,국토연구원,Other
+596,양해,Other
+597,의정부,Central Government
+598,과학기술보안연구센터,Other
+599,보안관제,Other
+600,우주항공,Other
+601,우주항공 사이버안전센터,Other
+602,건양대,Other
+603,경제정의실천시민연합,Citizen Organization
+604,국방부,Central Government
+605,디지털트윈,Other
+606,서울대,Other
+607,소상공인연합회,Other
+608,외교부,Central Government
+609,정치외교학부,Central Government
+610,통일부,Central Government
+611,경실련,Other
+612,경영학과,Other
+613,한국정보보호학회,Other
+614,(LiDAR),Other
+615,GS,Private Sector
+616,교차로,Other
+617,샌드박스,Other
+618,ISP,Other
+619,넷플릭스,Other
+620,미 정부,Central Government
+621,남북,Other
+622,서울여대,Other
+623,지능정보보호학부,Central Government
+624,KPI,Other
+625,농림부,Central Government
+626,진흥원,Public Institution
+627,충남정보문화산업진흥원,Public Institution
+628,Arm,Other
+629,충전소,Other
+630,CNS(LG씨엔에스,Private Sector
+631,IPO,Other
+632,대국,Other
+633,교통국,Other
+634,몽골,Other
+635,경제부,Central Government
+636,기재부,Central Government
+637,기획재정부,Central Government
+638,도쿄,Other
+639,동남아국가연합,Other
+640,한국은행,Private Sector
+641,한일,Other
+642,GX룸,Other
+643,골프연습장,Other
+644,농심,Other
+645,르노코리아,Other
+646,부산시,Central Government
+647,삼성전기,Private Sector
+648,서낙동강,Other
+649,수변공원,Other
+650,스타필드시티,Other
+651,에코델타시티,Other
+652,중흥,Other
+653,피트니스클럽,Other
+654,코레일,Other
+655,김천시,Other
+656,보건복지부,Central Government
+657,환경부,Central Government
+658,CJ올리브네트웍스,Private Sector
+659,SK C&C,Private Sector
+660,삼성SDS,Private Sector
+661,ISMP,Other
+662,경제개발공사,Other
+663,뉴욕,Other
+664,에듀테크,Other
+665,금융위원회,Central Government
+666,국정원,Central Government
+667,산업부,Central Government
+668,동서문제연구원,Other
+669,한국공간정보산업협회,Other
+670,APEKSI,Other
+671,KOTRA,Other
+672,부산항만공사,Central Government
+673,상담회,Other
+674,수라바야무역관장,Other
+675,지자체협회,Local Government
+676,코트라,Other
+677,한국관,Other
+678,K-스마트시티,Other
+679,국립공주대,Public Institution
+680,국립공주대학교,Public Institution
+681,시범단,Other
+682,국토교통위원회,Central Government
+683,알파벳,Other
+684,중국 정부,Central Government
+685,지주,Other
+686,AIC,Other
+687,SPC,Other
+688,부산정보산업진흥원,Central Government
+689,사이버위협,Other
+690,LS,Private Sector
+691,LS그룹,Private Sector
+692,LS일렉트릭,Private Sector
+693,LS전선,Private Sector
+694,사무소,Other
+695,네브시스,Other
+696,중기부,Central Government
+697,MIT,Other
+698,홍익대,Other
+699,홍익대학교,Academia
+700,기아자동차,Private Sector
+701,사회부,Central Government
+702,한국과학기술정보연구원(,Other
+703,AMD,Other
+704,모빌린트,Other
+705,App,Other
+706,HP,Other
+707,딥시크,Other
+708,레노버,Other
+709,케이투스,Other
+710,HPC,Other
+711,한국자동차연구원,Other
+712,에너자이,Other
+713,코난테크놀로지,Other
+714,폴라리스오피스,Other
+715,버넥트,Other
+716,인이지,Other
+717,디노티시아,Other
+718,이스트소프트,Other
+719,슈퍼브에이아이,Other
+720,올거나이즈,Other
+721,코오롱베니트,Other
+722,와이즈스톤,Other
+723,STC,Other
+724,LH,Public Institution
+725,강서경찰서,Other
+726,에코델타시티역,Other
+727,중흥건설그룹,Other
+728,중흥토건,Other
+729,아이,Other
+730,아이 바다패스,Other
+731,이어드림,Other
+732,Bri,Other
+733,그린스마트,Other
+734,부산에코델타시티,Central Government
+735,실무협의회,Other
+736,시청,Central Government
+737,명지새동네~국회도서관,Central Government
+738,원도심,Other
+739,뉴사우스웨일즈대학교,Academia
+740,도심항,Other
+741,대한산악연맹,Other
+742,블랙야크,Other
+743,숙명여자대학교,Academia
+744,팅크웨어,Other
+745,한국산악회,Other
+746,공공택지지구,Other
+747,목동 학원가,Other
+748,범어동,Other
+749,부동산R114,Central Government
+750,도심항공,Other
+751,한국수자원공사(K-water,Other
+752,전남대,Other
+753,가덕도신공항,Other
+754,작은도서관,Other
+755,중흥S,Other
+756,사업단장,Other
+757,국립한밭대,Public Institution
+758,명지IC,Other
+759,공주대,Other
+760,구미시,Other
+761,구미시장,Other
+762,구미지원센터,Other
+763,굿네이버스,Private Sector
+764,CES 2025,Other
+765,iM뱅크,Other
+766,경제부시장,Central Government
+767,신용보증기금,Other
+768,엑스코,Other
+769,유엔디,Other
+770,플러그앤플레이,Other
+771,UN,Other
+772,㈜릴리커버,Private Sector
+773,㈜한국알파시스템,Private Sector
+774,신보,Other
+775,GTE,Other
+776,GTEL,Other
+777,공안부,Central Government
+778,동구,Other
+779,IBEN,Other
+780,릴리커버,Other
+781,비바이노베이션,Other
+782,에이트테크,Other
+783,큐빅케이,Other
+784,티엠이브이넷,Other
+785,한국알파시스템,Other
+786,E.N.SOFT,Other
+787,FIX,Other
+788,UMN,Other
+789,국제스마트기술협력센터,Other
+790,신라대,Other
+791,신라대학교,Academia
+792,HMG,Other
+793,충남문진원,Other
+794,태안,Other
+795,태안군,Other
+796,ESG,Other
+797,국제학교,Academia
+798,동남아시아,Other
+799,태국,Other
+800,롯데호텔,Private Sector
+801,총리실,Central Government
+802,공주대학교,Academia
+803,피트니,Other
+804,KTL,Private Sector
+805,JA,Other
+806,글로컬대학,Academia
+807,호남대,Other
+808,호남대학교,Academia
+809,남구,Other
+810,대방건설,Other
+811,대우건설,Private Sector
+812,리얼투데이,Other
+813,용인시,Other
+814,한국부동산원,Central Government
+815,광주보건대,Other
+816,광주여대,Other
+817,대구보건대·,Other
+818,대전보건대,Other
+819,동신대,Other
+820,목포과학대,Other
+821,목포대,Other
+822,순천대,Other
+823,조선간호대,Other
+824,조선대,Other
+825,조선이공대,Other
+826,키오스크,Other
+827,금샘종합건설,Other
+828,핀텔,Other
+829,한서대학교,Academia
+830,현대도시개발,Private Sector
+831,간성읍,Other
+832,건설교통국장,Other
+833,고성군,Other
+834,홍천군,Other
+835,BIM,Other
+836,건설공사,Other
+837,심층평가위원,Other
+838,스마,Other
+839,스마트건설,Other
+840,스마트,Other
+841,목포해양대,Other
+842,송원대,Other
+843,한국해양대,Other
+844,경기,Other
+845,전북,Other
+846,뉴시스,Other
+847,대한체육회,Other
+848,전북특별자치도,Other
+849,CCIA,Other
+850,예산결산특별위원회,Central Government
+851,IMF,Other
+852,국제통화기금,Other
+853,유럽연합,Other
+854,항만,Other
+855,경제,Other
+856,나토,Other
+857,노바티스,Other
+858,독일,Other
+859,동유럽,Other
+860,서구,Other
+861,슬로바키아,Other
+862,웨스팅하우스,Other
+863,포스코,Private Sector
+864,한국토지주택공사(LH),Public Institution
+865,GS건설,Private Sector
+866,한국건설산업연구원,Other
+867,한화,Private Sector
+868,현대엔지니어링,Private Sector
+869,한국정부,Central Government
+870,KB금융,Other
+871,농협은행,Private Sector
+872,신한은행,Private Sector
+873,신한카드,Other
+874,테크놀로지스,Other
+875,유가증권,Other
+876,고려사,Other
+877,알스퀘어,Other
+878,EU,Other
+879,HD현대건설기계,Private Sector
+880,HD현대인프라코어,Private Sector
+881,WB,Other
+882,세계은행,Private Sector
+883,쌍용건설,Other
+884,우크라이나 전쟁,Other
+885,하나증권,Other
+886,HD현대,Private Sector
+887,HD현대그룹,Private Sector
+888,국제공항공사,Other
+889,JP모건,Other
+890,미래에셋증권,Other
+891,덴마크,Other
+892,지멘스,Other
+893,투자은행,Private Sector
+894,베스타스,Other
+895,종합건설,Other
+896,키움증권,Other
+897,유현준건축사사무소,Other
+898,경기일보,Other
+899,고양특례시,Other
+900,강원특별자치도,Other
+901,서울시청,Central Government
+902,온라인뉴스,Other
+903,119안전센터,Other
+904,강원자치도,Other
+905,파이낸셜뉴스,Other
+906,강원지역,Other
+907,강원특별자치도청,Central Government
+908,경영대,Other
+909,게스,Other
+910,스카이라운지,Other
+911,롯데마트,Private Sector
+912,조선대학교,Academia
+913,국방위,Other
+914,도시공사,Other
+915,의정부도시공사,Central Government
+916,미래전략,Other
+917,행복청,Central Government
+918,소공연,Other
+919,행복청장,Central Government
+920,다함께,Other
+921,에듀리버,Other
+922,제천,Other
+923,충주,Other
+924,현대모비스,Private Sector
+925,㈜신세계화성,Private Sector
+926,파라마운트,Other
+927,화성특례시,Other
+928,GH,Other
+929,화성시,Other
+930,한국전력,Other
+931,한국토지주택공사,Other
+932,애나,Other
+933,엠젠솔루션,Other
+934,대사관,Other
+935,주한,Other
+936,디캠프,Other
+937,은행권청년창업재단,Central Government
+938,국립군산대,Public Institution
+939,국립군산대학교,Public Institution
+940,군산대,Other
+941,스마트오션모빌리공학과,Other
+942,첨단학,Other
+943,대학일자리플러스센터,Academia
+944,총정,Other
+945,AFC,Other
+946,경기도,Other
+947,한경닷컴,Other
+948,K-건설,Other
+949,중동,Other
+950,불공정,Other
+951,대우,Private Sector
+952,호주,Other
+953,한국건설기술인협회,Other
+954,CBS노컷뉴스,Other
+955,금융감독원,Other
+956,검찰,Other
+957,대검찰청,Central Government
+958,블랙펄인베스트먼트,Other
+959,스마트이앤씨,Other
+960,에스지에스한국,Other
+961,테크밸리산단,Other
+962,SK,Private Sector
+963,롯데그룹,Private Sector
+964,롯데케미칼,Private Sector
+965,사절단,Other
+966,에틸렌,Other
+967,한경협,Other
+968,한국경제인협회,Other
+969,한국무역협회,Other
+970,관세에,Other
+971,통상교섭본부,Other
+972,신세계그룹,Other
+973,aff,Other
+974,세종시청,Central Government
+975,국제테마파크,Other
+976,신세계화성,Other
+977,통신부,Central Government
+978,구세주,Other
+979,팀코리아,Other
+980,정부서울청사,Central Government
+981,양가희,Other
+982,도시,Other
+983,도심,Other
+984,ARM,Other
+985,수퍼게이트,Other
+986,에이직랜드,Other
+987,Daewoo,Other
+988,Fina,Other
+989,unc,Other
+990,IB,Other
+991,다함께돌봄센터,Other
+992,KB금융그룹,Other
+993,NH농협은행,Private Sector
+994,W&B,Other
+995,넥슨,Other
+996,대한항공,Other
+997,미래에셋생명,Other
+998,베어로보틱스,Other
+999,전환,Other
+1000,코히어,Other
+1001,오산시,Other
+1002,HD현대중공업,Private Sector
+1003,HJ중공업,Other
+1004,K-건,Other
+1005,SK에코플랜트,Private Sector
+1006,도화엔지니어링,Other
+1007,동부건설,Central Government
+1008,동아지질,Other
+1009,삼성 E&A,Private Sector
+1010,이앤씨,Other
+1011,한신공영,Other
+1012,해건협,Other
+1013,국민신문고,Other
+1014,(주)도슨티,Other
+1015,(주)쉴드테크,Other
+1016,(주)아치서울,Other
+1017,동반성장위원회,Central Government
+1018,아치서울,Other
+1019,창업진흥원,Public Institution
+1020,호반,Other
+1021,호반건설,Other
+1022,호반그룹,Other
+1023,DL이앤씨,Other
+1024,대교,Other
+1025,동아건설산업,Other
+1026,엘티삼보,Other
+1027,할리파,Other
+1028,경제자유구역위원회,Central Government
+1029,경제자유구역청,Central Government
+1030,서산,Other
+1031,중앙도시계획위원회,Central Government
+1032,화성국제테마파크,Other
+1033,EXAONE,Other
+1034,GCP,Other
+1035,S-OIL,Other
+1036,신한투자증권,Other
+1037,㈜신세계,Private Sector
+1038,국회의원단,Central Government
+1039,일본 자민당,Other
+1040,정보통신전략조사회,Private Sector
+1041,주오사카대한민국총영사,Other
+1042,중의원,Other
+1043,지방창생특별위원회,Central Government
+1044,한·일 국교,Other
+1045,㈜도슨티,Private Sector
+1046,㈜아치서울,Private Sector
+1047,에이전틱A,Other
+1048,니즈,Other
+1049,하남시,Other
+1050,서울경제진흥원,Public Institution
+1051,(주)신세계화성,Other
+1052,KINTEX,Other
+1053,우호협력,Other
+1054,Fed,Other
+1055,Hyundai,Other
+1056,모터스튜디오,Other
+1057,미주한인회,Other
+1058,미주한인회총연합회,Other
+1059,스마트시티 디지털,Other
+1060,에쓰오일,Other
+1061,shop,Other
+1062,Hwaseong,Other
+1063,하남시장,Other
+1064,도슨티,Other
+1065,한일국교,Other
+1066,클라우드,Other
+1067,실리콘밸리,Other
+1068,제테마파크,Other
+1069,화성시청,Central Government
+1070,엄궁대교,Other
+1071,클라우,Other
+1072,AKTI,Private Sector
+1073,건설기계협회,Other
+1074,르타,Other
+1075,상공회의소,Private Sector
+1076,서부자카,Central Government
+1077,LG씨엔에스,Private Sector
+1078,LG에너지솔루션,Private Sector
+1079,티머니,Other
+1080,국토발전전시관,Other
+1081,건설산업연구원,Other
+1082,삼성E&A,Private Sector
+1083,국토,Other
+1084,E&A,Other
+1085,EBRD,Other
+1086,LLC,Other
+1087,대표,Other
+1088,유럽부흥개발은행,Central Government
+1089,유럽투자지주유한회사,Other
+1090,피에티캐이넨,Other
+1091,핀란드,Other
+1092,핀베라,Other
+1093,호로독 지역,Other
+1094,지역아동센터,Other
+1095,ni,Other
+1096,창원산업진흥원,Public Institution
+1097,Ni,Other
+1098,Sig,Other
+1099,거창군,Other
+1100,경남도,Other
+1101,군의회,Local Government
+1102,도시바,Other
+1103,동서,Other
+1104,가오슝시,Other
+1105,모회사,Other
+1106,휴맥스,Other
+1107,한전,Other
+1108,휴맥스모빌리티,Other
+1109,KB금융지주,Other
+1110,롯데,Private Sector
+1111,롯데몰,Private Sector
+1112,롯데백화점,Private Sector
+1113,롯데쇼핑,Private Sector
+1114,롯데웰푸드,Private Sector
+1115,하노이,Other
+1116,RISE,Other
+1117,대학교육,Academia
+1118,스마트시,Other
+1119,스마트시티건,Other
+1120,풀스택,Other
+1121,김천리 자연재해위험,Other
+1122,의료,Other
+1123,NEC,Other
+1124,도요타,Other
+1125,중앙대,Other
+1126,기술연구소,Other
+1127,국군,Other
+1128,외교대표단,Other
+1129,도제학교,Academia
+1130,제주대학교,Academia
+1131,K-water,Other
+1132,GDC,Other
+1133,교통정보센터,Other
+1134,서울로봇인공지능과학관,Other
+1135,순천시,Other
+1136,순천시의회,Local Government
+1137,KT&G,Private Sector
+1138,첨단,Other
+1139,메가트렌드,Other
+1140,광주과학기술원(GIST),Academia
+1141,KIND,Other
+1142,나카스,Other
+1143,한국해외인프라도시개발지원공사,Other
+1144,국제금융센터,Other
+1145,키플,Other
+1146,광명시,Other
+1147,광명시장,Other
+1148,과학아카데미,Other
+1149,에너지문제연구소,Other
+1150,우즈베키스탄,Other
+1151,한국광기술원,Other
+1152,충북과기원,Other
+1153,충북과학기술혁신원,Other
+1154,산자부,Central Government
+1155,인천경제청인천경제자유구역청,Central Government
+1156,미래에너지,Other
+1157,문화교류,Other
+1158,ACCSQ,Other
+1159,KCL,Other
+1160,사무,Other
+1161,스마트도시협회,Other
+1162,한국건설생활환경시험연구원,Other
+1163,아세안,Other
+1164,한·아세안,Other
+1165,국제도시,Other
+1166,세종시문화관광재단,Public Institution
+1167,한국문화원,Other
+1168,한국교육원,Other
+1169,강남구,Other
+1170,강남구청장,Central Government
+1171,GITEX,Other
+1172,노타,Other
+1173,더샵,Other
+1174,포스코이앤씨,Private Sector
+1175,롯데건설,Private Sector
+1176,부동산인포,Central Government
+1177,하이엔,Other
+1178,도로교통국,Other
+1179,스톤브릿지벤처스,Central Government
+1180,LSNG C,Private Sector
+1181,시민공청회,Central Government
+1182,이니셔티브,Other
+1183,ASEAN,Other
+1184,아세안표준품질자문위원회,Central Government
+1185,한-,Other
+1186,강남,Other
+1187,넷코리아,Other
+1188,샤플앤컴퍼니,Other
+1189,이든티엔에스,Other
+1190,스틱벤처스,Central Government
+1191,한-ASEAN,Other
+1192,당진시,Other
+1193,행정안전위원회,Central Government
+1194,ICLEI,Other
+1195,기후총회,Other
+1196,당사국총회,Other
+1197,세계지방정부협의회,Central Government
+1198,이클레이,Other
+1199,케랄라주,Other
+1200,세계,Other
+1201,이마트,Other
+1202,아주대,Other
+1203,경남대,Other
+1204,동의대,Other
+1205,호서대,Other
+1206,인하대,Other
+1207,경기고양특례시,Other
+1208,국제사회,Other
+1209,인천경제자유구역,Other
+1210,그린에너지,Other
+1211,세계본부,Other
+1212,코치시,Other
+1213,NVIDIA,Other
+1214,에티버스,Other
+1215,가즈노리,Other
+1216,고베,Other
+1217,고베 예술단,Other
+1218,고베경제동우회,Other
+1219,고베상공회의소,Private Sector
+1220,고베시,Other
+1221,국보,Other
+1222,대구상공회의소,Private Sector
+1223,대구시의회,Local Government
+1224,스마트광통신센터,Private Sector
+1225,예술단,Other
+1226,한일교류음악회,Other
+1227,K-바이오랩허브,Other
+1228,내무부,Central Government
+1229,울산창조경제혁신센터,Other
+1230,창조경제혁신센터,Other
+1231,KHP,Other
+1232,KOICA,Other
+1233,청주대,Central Government
+1234,충북국제개발협력센터,Other
+1235,한국국제협력단,Other
+1236,Eu,Other
+1237,KRW,Other
+1238,산학협력단장,Other
+1239,광기술원,Other
+1240,치르치크시,Other
+1241,ESG지역혁신연구소,Other
+1242,동아대,Other
+1243,동아대학교,Academia
+1244,건설교통위,Other
+1245,의회사무처,Central Government
+1246,인천시의회,Local Government
+1247,청두시,Central Government
+1248,청두시장,Central Government
+1249,GSO,Private Sector
+1250,성균관대학교,Academia
+1251,융합보안대학원,Academia
+1252,밴티크,Other
+1253,공사,Other
+1254,한국에너지공단,Public Institution
+1255,한양대,Other
+1256,VC,Other
+1257,멘토링,Other
+1258,충남창경센터,Other
+1259,충남창조경제혁신센터,Other
+1260,청두,Central Government
+1261,㈜배터플라이,Private Sector
+1262,일원,Other
+1263,클린에너지,Other
+1264,부산시청,Central Government
+1265,콘래드호텔,Other
+1266,인하대학교,Academia
+1267,사회과학,Other
+1268,㈜포드림,Private Sector
+1269,㈜웨이버스,Private Sector
+1270,안양대,Other
+1271,안양대학교,Academia
+1272,국제교류원,Other
+1273,노동부,Central Government
+1274,한국정보화진흥원,Public Institution
+1275,향상대책위원회,Central Government
+1276,솔트룩스,Private Sector
+1277,도시개발공사,Other
+1278,도시개발부,Central Government
+1279,세종테크노파크,Other
+1280,스플리트시,Other
+1281,에르체그,Other
+1282,유럽재건개발은행,Private Sector
+1283,크로아티아,Other
+1284,테크노파크,Other
+1285,간담회,Other
+1286,스마트시티공학과,Other
+1287,북한,Other
+1288,KT클라우드,Private Sector
+1289,리벨리온,Other
+1290,아마존,Other
+1291,의원연맹,Other
+1292,인천상공회의소,Private Sector
+1293,인천시립교향악단,Other
+1294,문화재단,Public Institution
+1295,미네르바대,Other
+1296,산학협력포럼,Other
+1297,서울평화상,Other
+1298,스탠퍼드대,Other
+1299,외교통상부,Central Government
+1300,이사회,Other
+1301,태재대,Other
+1302,태재대학교,Academia
+1303,한국고등교육재단,Public Institution
+1304,한국정책학회,Other
+1305,현대일본학회,Private Sector
+1306,그랜드뷰리서치,Other
+1307,업스테이지,Other
+1308,베트남국립미술관,Public Institution
+1309,문화체육관광부,Central Government
+1310,매일경제,Other
+1311,list,Other
+1312,인천시청,Central Government
+1313,서울아리수본부,Other
+1314,의회도서관,Other
+1315,건설산업비전포럼,Other
+1316,국토개발,Other
+1317,남북한,Other
+1318,대한건축학회,Other
+1319,문화연구소,Other
+1320,부산외국어대학교,Central Government
+1321,연방정부,Central Government
+1322,청와대,Central Government
+1323,한미글로벌,Other
+1324,한반도,Other
+1325,세일즈포스,Other
+1326,천안시,Other
+1327,공무원,Other
+1328,알카닥 도시건설,Other
+1329,이비엔뉴스센터,Other
+1330,진현환,Other
+1331,투르크메니스탄,Other
+1332,DINNO,Other
+1333,KARI,Other
+1334,한국소프트웨어산업협회,Other
+1335,한국인터넷진흥원(,Public Institution
+1336,한국소프트웨어산업협회(KOSA),Other
+1337,ADD,Other
+1338,국방과학연구소,Other
+1339,공정거래위원회,Central Government
+1340,금융위,Other
+1341,비대위,Other
+1342,운영위원회,Central Government
+1343,홈플러스,Other
+1344,배달의민족,Other
+1345,비상대책위원회,Central Government
+1346,크래프톤,Other
+1347,질병관리청,Central Government
+1348,한솔테크닉스,Other
+1349,천안캠퍼스,Other
+1350,BS그룹,Other
+1351,사립학교,Academia
+1352,산이정원,Other
+1353,솔라시도,Other
+1354,태양,Other
+1355,전남도,Other
+1356,구성지구,Other
+1357,국제자동차,Other
+1358,전남개발공사,Other
+1359,파크골프장,Other
+1360,교토,Other
+1361,부지사,Central Government
+1362,한일지사회의,Other
+1363,전기차,Other
+1364,알카닥,Other
+1365,뉴욕시,Other
+1366,조지아주,Other
+1367,사무소장,Other
+1368,한국공학한림원,Other
+1369,대통령,Other
+1370,간월호,Other
+1371,메카로,Other
+1372,브라운필드,Other
+1373,충북혁신도시,Other
+1374,국토해양부,Central Government
+1375,경찰서,Other
+1376,K-,Other
+1377,페이스북,Other
+1378,단양8경,Other
+1379,대덕연구특구,Other
+1380,음성,Other
+1381,지방시,Other
+1382,충북도당,Other
+1383,개발공사,Other
+1384,아미,Other
+1385,K-바이오스퀘어,Other
+1386,서산~,Other
+1387,서산~천안~청주~,Central Government
+1388,KOSA,Other
+1389,한국인터넷진흥원,Public Institution
+1390,교토부,Central Government
+1391,송도국제도시,Other
+1392,연수구,Other
+1393,국방장관,Other
+1394,ASPAC,Other
+1395,UCLG,Private Sector
+1396,세계지방정부연합,Central Government
+1397,엠 아니르쿠마르,Other
+1398,국힘,Other
+1399,정상회,Other
+1400,팔란티어,Other
+1401,SK텔레콤,Private Sector
+1402,마이크로소프트(MS),Other
+1403,한국표준과학연구원,Other
+1404,FIFA,Other
+1405,산업연구원,Other
+1406,아랍에미리트연합,Other
+1407,러시아군,Other
+1408,부산도시공사,Central Government
+1409,BCI,Other
+1410,심우주,Other
+1411,바이오에너지,Other
+1412,원천,Other
+1413,동원,Other
+1414,계산,Other
+1415,공산당,Other
+1416,기초연,Other
+1417,우주,Other
+1418,신기원,Other
+1419,신흥산업,Other
+1420,우리로,Other
+1421,지평,Other
+1422,ing,Other
+1423,메타빌드,Other
+1424,오산시장,Other
+1425,용인특례시,Other
+1426,ISO,Other
+1427,TOPIS,Other
+1428,자치행정주택부,Central Government
+1429,네이버(NA,Private Sector
+1430,쏘카,Private Sector
+1431,법학과,Other
+1432,세종대,Other
+1433,K-컬처,Central Government
+1434,구글어스,Other
+1435,대통령 관저,Other
+1436,국세청,Central Government
+1437,우방,Other
+1438,의대,Other
+1439,장성광업소,Other
+1440,태백시,Other
+1441,선전시,Other
+1442,입법조사처,Central Government
+1443,분당,Other
+1444,LG화학,Private Sector
+1445,NH투자증권,Other
+1446,SK에너지,Private Sector
+1447,한국동서발전,Other
+1448,스타트업파크,Private Sector
+1449,인천스타트업파크,Private Sector
+1450,스마트시티 통합운영센터,Other
+1451,바라카 원전,Other
+1452,IJM,Other
+1453,PWCC,Other
+1454,동남아시아국가연합,Other
+1455,야쇼부미,Central Government
+1456,킨텍스,Other
+1457,페낭,Other
+1458,페낭주,Other
+1459,광주도시공사,Other
+1460,광주시,Other
+1461,마켓플레이스,Other
+1462,북구,Other
+1463,전석 ㈜그리다에너지,Private Sector
+1464,한전KDN,Other
+1465,인사청문특별위원회,Central Government
+1466,안양교도소,Other
+1467,농수산물도매,Other
+1468,안양도시공사,Other
+1469,안양시의회,Local Government
+1470,항공우주국(NASA),Other
+1471,간사이 엑스포,Other
+1472,마루베니,Other
+1473,먀쿠먀쿠,Other
+1474,상사,Other
+1475,생명연,Other
+1476,에어크래프트,Other
+1477,유메시마,Other
+1478,인공섬,Other
+1479,조직위,Other
+1480,K-뷰티,Other
+1481,용인시장,Other
+1482,과천,Other
+1483,과천시,Other
+1484,과천시의회,Local Government
+1485,과천시의회 2050 도시혁신,Local Government
+1486,도시혁신연구소,Other
+1487,광주광역시,Other
+1488,(주)한국동서발전,Other
+1489,SBS방송사,Other
+1490,경상남도교육청,Central Government
+1491,국가산업단지,Other
+1492,국민체육센터,Other
+1493,문화관광축제,Other
+1494,밀양,Other
+1495,밀양대페스타,Other
+1496,밀양대학교,Academia
+1497,밀양시,Other
+1498,밀양시장,Other
+1499,밀양아리랑대축제,Other
+1500,삼양식품,Other
+1501,스포츠파크,Other
+1502,신세계,Other
+1503,야구부,Central Government
+1504,영남루,Other
+1505,요넥스코리아,Other
+1506,식스팹,Other
+1507,식스팹(Si,Other
+1508,도쿄대,Other
+1509,인천경제자유구역청장,Central Government
+1510,IIT,Other
+1511,MMRDA,Other
+1512,루르키,Other
+1513,인도공과대학교,Academia
+1514,주정부,Central Government
+1515,더벨,Other
+1516,머니투데,Other
+1517,폴라리스세원,Other
+1518,폴라리스오피스그룹,Other
+1519,폴라리스우노,Other
+1520,경상북도경제진흥원,Public Institution
+1521,디지털융합산업과,Other
+1522,포스텍,Other
+1523,포항,Other
+1524,포항공과대학교,Academia
+1525,포항시,Other
+1526,포항시장,Other
+1527,한동대,Other
+1528,IOC,Other
+1529,다봄센터,Other
+1530,SKT,Private Sector
+1531,뷰런테크놀로지,Other
+1532,스타벅스,Other
+1533,BS한양,Other
+1534,수자인,Other
+1535,더퍼스트,Other
+1536,서울대학교,Academia
+1537,춘천시,Other
+1538,춘천시의회,Local Government
+1539,IGF,Other
+1540,Indian Institute of Te,Other
+1541,공대,Other
+1542,국립,Public Institution
+1543,인도공과대학,Academia
+1544,경북도경제진흥원,Public Institution
+1545,BEXCO,Other
+1546,벡스코,Other
+1547,WSCE,Other
+1548,nec,Other
+1549,혁신위원회,Central Government
+1550,교육청,Central Government
+1551,밀양아리랑,Other
+1552,에너지산업,Other
+1553,문체부,Central Government
+1554,BCDA,Other
+1555,Innovation Committee,Other
+1556,POSTECH,Academia
+1557,기지전환개발청,Central Government
+1558,포항공대,Other
+1559,양해각서,Other
+1560,양해각,Other
+1561,국립중앙과학관,Public Institution
+1562,미래기술관,Other
+1563,제주대,Other
+1564,컴퓨터공학과,Other
+1565,시설관리공단,Public Institution
+1566,청소년재단,Central Government
+1567,circ,Other
+1568,헌법재판소,Other
+1569,안양시,Other
+1570,만안구,Other
+1571,안양시청,Central Government
+1572,내일꿈제작소,Other
+1573,고양종합운동장,Other
+1574,뉴클락시티,Other
+1575,칼랄로,Other
+1576,필리핀,Other
+1577,민관,Other
+1578,한국국토정보공사(LX),Other
+1579,롯데캐슬,Private Sector
+1580,MICE,Other
+1581,선도연구센터,Other
+1582,전주시,Other
+1583,전주시청,Central Government
+1584,DMC,Other
+1585,건우아파트가로주택정비사업조합,Other
+1586,수주도,Other
+1587,신원,Other
+1588,신원종합개발㈜,Private Sector
+1589,중·고교,Other
+1590,RIST,Other
+1591,철강관리공단,Public Institution
+1592,포항상공회의소,Private Sector
+1593,포항시의회,Local Government
+1594,Gaia,Other
+1595,인터엑스,Other
+1596,한국OSG,Other
+1597,Ivoflow사,Other
+1598,SAP,Other
+1599,경산경찰서장,Other
+1600,경산시,Other
+1601,경찰,Other
+1602,㈜비즈데이터,Private Sector
+1603,㈜인터엑스,Private Sector
+1604,한국OSG㈜,Private Sector
+1605,K스마트시티,Other
+1606,LX공사,Other
+1607,LX한국국토정보공사,Other
+1608,우븐시티,Other
+1609,ABH,Other
+1610,국가AI위원회,Central Government
+1611,미래기술연구원,Other
+1612,AICA,Other
+1613,FPT디,Other
+1614,KMAC,Other
+1615,국가데이터센터,Other
+1616,국가정보자원관리원,Other
+1617,한국능률협회컨설팅,Other
+1618,한국능률협회컨설팅(대표이사,Other
+1619,LH세종본부,Public Institution
+1620,LH세종본부장,Public Institution
+1621,수주,Other
+1622,혁신개발청,Central Government
+1623,POSCO,Other
+1624,Forum,Other
+1625,신원아침,Other
+1626,경남지사,Other
+1627,도시정책국,Other
+1628,먹거리통합지원센터,Other
+1629,창원시,Other
+1630,창원시의원,Other
+1631,고잔역,Other
+1632,안산시,Other
+1633,중앙역,Other
+1634,초지역,Other
+1635,파리,Other
+1636,비트센싱,Other
+1637,스페이스,Other
+1638,BFC,Other
+1639,수출입은행,Private Sector
+1640,파이낸스,Other
+1641,세종본부,Other
+1642,수주지,Other
+1643,수주지원,Other
+1644,수주지원단,Other
+1645,파이낸스센터,Other
+1646,밀라노,Other
+1647,콘캔,Other
+1648,국토교통부(,Central Government
+1649,한국해외인프라도시개발지원공사(KIND,Other
+1650,K-스마트,Other
+1651,삼안,Other
+1652,동명기술공단,Public Institution
+1653,정부간,Central Government
+1654,법무부,Central Government
+1655,위원회,Central Government
+1656,국가주석,Other
+1657,상하이,Other
+1658,알리바바,Other
+1659,유니트리,Other
+1660,텐센트,Other
+1661,항저우,Other
+1662,샤오미,Other
+1663,경운대,Other
+1664,구미,Other
+1665,구미대,Other
+1666,금오공대,Other
+1667,삼성전자(주),Private Sector
+1668,삼성전자㈜,Private Sector
+1669,광명시의회,Local Government
+1670,부천시,Central Government
+1671,부천시청,Central Government
+1672,EDC,Other
+1673,인텔리빅스,Other
+1674,LX공간정보연구원,Other
+1675,국토교통과학기술진흥원,Public Institution
+1676,모라이,Other
+1677,서울시립대,Other
+1678,웨이버스,Other
+1679,스마트시티공학,Other
+1680,경기도의회,Local Government
+1681,안양,Other
+1682,HL클레무브,Other
+1683,KGM,Other
+1684,최대주주,Other
+1685,인천국제공항,Other
+1686,포티투닷,Other
+1687,DGIST,Academia
+1688,LGO,Private Sector
+1689,경북,Other
+1690,과학기술대,Other
+1691,대구경북과학기술원(DGIST,Academia
+1692,뉴:,Other
+1693,뉴:빌리지,Other
+1694,주거복지,Other
+1695,부산상공회의소,Central Government
+1696,부산상의,Central Government
+1697,양주경찰서,Other
+1698,기술경영전문대학원,Academia
+1699,대구경북과학기술원(DGIST),Academia
+1700,공과대,Other
+1701,GINI,Other
+1702,도시연합,Other
+1703,말라가대학교,Academia
+1704,세계경제,Other
+1705,김포,Other
+1706,김포골드라인,Other
+1707,김포시청 지엔하임,Central Government
+1708,김포한강2공공주택지구,Other
+1709,유네스코,Other
+1710,지엔하,Other
+1711,그린바이오,Other
+1712,국제과학비즈니스벨트,Other
+1713,둔곡,Other
+1714,대전시장,Other
+1715,대전테크노파크,Other
+1716,말라가대,Other
+1717,세계경제과학도시연합,Other
+1718,프로말라,Other
+1719,한밭대학교,Academia
+1720,상반기 기술경영전문대학,Academia
+1721,글로,Other
+1722,공군,Other
+1723,카타르,Other
+1724,국방비,Other
+1725,미군,Other
+1726,육군,Other
+1727,이슬람,Other
+1728,카이스트(,Other
+1729,LX,Other
+1730,로레알,Other
+1731,중앙대학교,Academia
+1732,군마현,Other
+1733,천안시장,Other
+1734,호서대학교,Academia
+1735,GDIN,Other
+1736,조인트벤처,Central Government
+1737,동남아,Other
+1738,벤처,Central Government
+1739,아이디씨티,Other
+1740,고양시의회,Local Government
+1741,복지재단,Public Institution
+1742,FPGA,Other
+1743,ADA,Other
+1744,APACHE,Other
+1745,넥스트칩,Other
+1746,CAST,Other
+1747,Hitac,Other
+1748,QYResearch,Other
+1749,Sol,Other
+1750,고양시청,Central Government
+1751,고양특례시의회,Local Government
+1752,원당,Other
+1753,시민복지재단,Public Institution
+1754,노인회,Other
+1755,뉴에너지,Other
+1756,군청,Central Government
+1757,증평군,Other
+1758,증평군청소년문화의집,Central Government
+1759,휴먼시아 경로당,Other
+1760,임시회,Other
+1761,재정부,Central Government
+1762,안산,Other
+1763,철도부,Central Government
+1764,철도건설교통국,Other
+1765,#NAME?,Other
+1766,증평,Other
+1767,증평군청,Central Government
+1768,공립박물관,Other
+1769,대구테크노파크,Other
+1770,한국수력원자력,Other
+1771,서부발전,Central Government
+1772,중부발전,Central Government
+1773,캠코,Other
+1774,한국자산관리공사,Other
+1775,대구TP,Other
+1776,카카오모빌리티,Private Sector
+1777,자민당,Other
+1778,고양시민복지재단,Public Institution
+1779,부산시티호텔,Central Government
+1780,부산테크노파크,Public Institution
+1781,부산항,Central Government
+1782,LG헬로비전,Private Sector
+1783,리더스,Other
+1784,문경시장,Other
+1785,사이버진로교육원,Other
+1786,서산시장,Other
+1787,은평구청장,Central Government
+1788,인천시교육감,Other
+1789,태백시장,Other
+1790,해운대구청장,Central Government
+1791,헬로tv뉴스,Other
+1792,전남,Other
+1793,지역채널심의위원회,Central Government
+1794,기초자치단체,Local Government
+1795,서강대,Other
+1796,성남,Other
+1797,청년창업,Central Government
+1798,율동공원,Other
+1799,한국과학기술원(KAIST,Academia
+1800,HTWO,Other
+1801,에이치투,Other
+1802,현대로템,Private Sector
+1803,남양주,Other
+1804,남양주시,Other
+1805,남양주시장,Other
+1806,남양주시청,Central Government
+1807,국가재,Other
+1808,중앙투자심사,Other
+1809,인천관광공사,Other
+1810,상무부,Central Government
+1811,소프트파워,Other
+1812,이데일리,Other
+1813,집행,Other
+1814,보성그룹,Other
+1815,해남,Other
+1816,왜군,Other
+1817,울돌목,Other
+1818,진도,Other
+1819,Sat,Other
+1820,경남창조경제혁신센터,Other
+1821,경상남도,Other
+1822,KDI,Other
+1823,산업통상자원중소벤처기업위원회,Central Government
+1824,세종창조경제혁신센터,Other
+1825,시흥도시공사,Other
+1826,한국정보공학기술사회,Other
+1827,개인정보보호위원회,Central Government
+1828,경제사절단,Other
+1829,유센코 대통령 재단,Public Institution
+1830,최고의회,Other
+1831,리빙랩 시민참여단,Citizen Organization
+1832,뷰런,Other
+1833,은평구청,Central Government
+1834,부산대,Central Government
+1835,포스코홀딩스,Private Sector
+1836,Next,Other
+1837,ua,Other
+1838,Solution Living,Other
+1839,리빙랩,Other
+1840,목포시,Other
+1841,성남시정연구원,Other
+1842,지오멕스소프트,Other
+1843,Deta,Other
+1844,accu,Other
+1845,고양연구원,Other
+1846,구성,Other
+1847,네이버 ▷라이엇게임즈,Private Sector
+1848,통합혁신센터,Other
+1849,경주시,Other
+1850,경주시의회,Local Government
+1851,군부대,Central Government
+1852,소방,Other
+1853,계양구,Other
+1854,지적재조사위원회,Central Government
+1855,LNG,Other
+1856,칼리파,Other
+1857,아카데미,Other
+1858,쿠웨이트,Other
+1859,적극행정위원회,Central Government
+1860,용인특례시청,Central Government
+1861,pap,Other
+1862,hitc,Other
+1863,감사원,Central Government
+1864,의왕시,Other
+1865,용인,Other
+1866,보건복지위원회,Central Government
+1867,스마트시티과,Other
+1868,시·,Other
+1869,용인특례시장,Other
+1870,용인시청,Central Government
+1871,미래산업국장,Other
+1872,TRYOUT,Other
+1873,세종대학교,Academia
+1874,인천대,Other
+1875,인천대학교,Academia
+1876,챌린지랩,Other
+1877,청운대,Central Government
+1878,청운대학교,Central Government
+1879,도시재생위원회,Central Government
+1880,부동산학,Central Government
+1881,서울연구원,Other
+1882,영산대,Other
+1883,와이즈유,Other
+1884,주택산업연구원,Other
+1885,대학생심리지원단,Academia
+1886,대학생진로멘토단,Academia
+1887,양지유스센터,Other
+1888,유스터즈,Other
+1889,중원유스센터,Other
+1890,중원유스센터 청소년운영위원회,Central Government
+1891,청소년 자치기구,Central Government
+1892,청소년운영위원회,Central Government
+1893,유센코대통령 재단,Public Institution
+1894,삼성넥스트,Private Sector
+1895,국가스마트도시위원회,Central Government
+1896,국토교통과학진흥원,Public Institution
+1897,규제샌드박스,Other
+1898,가오슝시장,Other
+1899,녹색에너지,Other
+1900,천치마이,Other
+1901,혁신단,Other
+1902,고양,Other
+1903,보상협의회,Other
+1904,세종도시교통공사,Public Institution
+1905,고양총회,Other
+1906,영산대학교,Academia
+1907,고양시고양시,Other
+1908,참여,Other
+1909,참여단,Other
+1910,건국대,Other
+1911,이화여대,Other
+1912,Chicony Electronics,Other
+1913,CityCOP,Other
+1914,ComP,Other
+1915,UMC,Other
+1916,남부과학단지관리국,Central Government
+1917,㈜LG,Private Sector
+1918,OASC,Other
+1919,스마트시티 혁신,Other
+1920,스마트시티 혁신센터,Other
+1921,필립,Other
+1922,CNS(LG씨엔에스),Private Sector
+1923,캐나다,Other
+1924,아스펜,Other
+1925,건산연,Other
+1926,컴팩,Other
+1927,2025,Other
+1928,네덜란드,Other
+1929,KDN,Other
+1930,전력공사,Other
+1931,TERRA,Other
+1932,금호건설,Other
+1933,부산공장,Central Government
+1934,현대백화점,Private Sector
+1935,강서구,Other
+1936,서부산,Central Government
+1937,SCMS,Other
+1938,아우토크립트,Other
+1939,보배,Other
+1940,스탠퍼드,Other
+1941,SCSE,Other
+1942,국가발전위원회,Central Government
+1943,국토교통부실거,Central Government
+1944,니어드스톤,Other
+1945,대방산업개발,Other
+1946,델타시티,Other
+1947,리버뷰,Other
+1948,리움,Other
+1949,제2에코델타시티,Other
+1950,카카오VX,Private Sector
+1951,혁신벤처스타트업존,Central Government
+1952,기예르모,Other
+1953,안산시장,Other
+1954,CIS,Other
+1955,CISA,Other
+1956,CPPG,Other
+1957,SECON,Other
+1958,SECON &,Other
+1959,eGISEC,Other
+1960,사이버안보비서관,Other
+1961,선도지구,Other
+1962,고양시장,Other
+1963,DB손해보험,Other
+1964,그린테크,Other
+1965,인천테크노파크,Other
+1966,한국환경산업기술원,Other
+1967,혁신성장과장,Other
+1968,K-철,Other
+1969,K-AgeTech,Other
+1970,동의대학교,Academia
+1971,동의의료원,Public Institution
+1972,선도대학,Academia
+1973,스마트재활복지기술연구소,Other
+1974,에이지,Other
+1975,항노화연구소,Other
+1976,G131,Other
+1977,도청,Central Government
+1978,지슨,Other
+1979,공공사업주택부,Central Government
+1980,누산타라,Other
+1981,인프라건설,Other
+1982,탄자니아,Other
+1983,안산시청,Central Government
+1984,경북도,Other
+1985,한국토지주택연구원,Other
+1986,국가건설산업정책위원회,Central Government
+1987,이집트,Other
+1988,UNESCO,Other
+1989,유엔,Other
+1990,드론밸리,Other
+1991,호반호텔앤리조트,Other
+1992,민생경제 점검 회의,Other
+1993,Dri,Other
+1994,로보원,Other
+1995,연구개발(R&D)연구소,Other
+1996,밀리어네리,Other
+1997,CISSP,Other
+1998,UNIDO,Other
+1999,대통령실 사이버안보비서관,Central Government
+2000,스타트업 공동 홍보관,Private Sector
+2001,인포마 그룹,Other
+2002,한국투자진흥사무소,Other
+2003,C&P,Other
+2004,소방서,Other
+2005,iso,Other
+2006,서초구,Other
+2007,서초구청장,Central Government
+2008,TG,Other
+2009,국회 사무처,Central Government
+2010,법제처,Central Government
+2011,예산정책처,Central Government
+2012,인민법원전자,Other
+2013,전원영,Other
+2014,전원영 TG,Other
+2015,티지,Other
+2016,티지(TG),Other
+2017,한컴·,Other
+2018,t,Other
+2019,싱크탱크,Other
+2020,국민연,Other
+2021,군사정부,Central Government
+2022,미래항공모빌리티,Other
+2023,온디바이스,Other
+2024,NHN,Other
+2025,SK Telecom,Private Sector
+2026,다쏘시스템,Other
+2027,에스케이텔레콤,Other
+2028,에스케이플래닛,Other
+2029,엔에이치엔클라우드,Other
+2030,제주,Other
+2031,부산국제금융센터,Central Government
+2032,부산디지털혁신아카데미,Central Government
+2033,특위,Other
+2034,한화그룹,Private Sector
+2035,나이스신용평가,Other
+2036,우리은행,Private Sector
+2037,태영건설,Other
+2038,구미전자정보기술원,Other
+2039,DSR,Other
+2040,L12BL,Other
+2041,BIFC,Other
+2042,부산국제금융센터(,Central Government
+2043,동남권,Other
+2044,분과위원회,Central Government
+2045,세르비아,Other
+2046,HL만도,Other
+2047,IBK기업은행,Private Sector
+2048,한국산업은행,Private Sector
+2049,라이프자산운용,Other
+2050,삼천리인베스트먼트,Other
+2051,우리금융캐피탈,Other
+2052,NXP,Other
+2053,NXP반도체,Other
+2054,속초시,Other
+2055,속초시장,Other
+2056,김앤장법률사무소,Other
+2057,속초시청,Central Government
+2058,통계청,Central Government
+2059,블루투스,Other
+2060,엠브레인,Other
+2061,수원시청,Central Government
+2062,스포츠서울,Other
+2063,LG디스플레이,Private Sector
+2064,시나르마스,Other
+2065,Living,Other
+2066,네비웍스,Other
+2067,메타아이즈,Other
+2068,해오름동맹,Other
+2069,국토교통위,Other
+2070,환경노동위,Other
+2071,노동조합,Other
+2072,K-ICT,Other
+2073,시교육청,Central Government
+2074,광주교통공사,Other
+2075,모바휠,Other
+2076,강원?동해시,Other
+2077,동해시,Other
+2078,동해시청,Central Government
+2079,혁신성장본부장,Other
+2080,경제개발부,Central Government
+2081,메트로,Other
+2082,멕시코,Other
+2083,쉐인바움,Other
+2084,부산시교육청,Central Government
+2085,손다,Other
+2086,K-IC,Other
+2087,국제교류실,Other
+2088,다보스포럼,Other
+2089,빈하이신구,Other
+2090,톈진시,Other
+2091,하계,Other
+2092,런던,Other
+2093,국제무역통상연구원장,Other
+2094,루비오,Other
+2095,미국 국무부,Central Government
+2096,BS소프트,Other
+2097,ETRI?GIST,Academia
+2098,㈜BS소프트,Private Sector
+2099,㈜동이기술,Private Sector
+2100,㈜명신메디칼,Private Sector
+2101,㈜세연이앤에스,Private Sector
+2102,광주여자대학교,Academia
+2103,디어디어,Other
+2104,명신메디칼,Other
+2105,미래산업총괄관,Other
+2106,복지관,Other
+2107,엔에이치네트웍스,Other
+2108,엔에이치네트웍스㈜,Private Sector
+2109,이지훈,Other
+2110,한국국제협력단(KOICA,Other
+2111,Energy,Other
+2112,㈜그로비,Private Sector
+2113,㈜달구,Private Sector
+2114,㈜데이터플라이,Private Sector
+2115,㈜이엠에스,Private Sector
+2116,㈜인지솔루션,Private Sector
+2117,㈜키즐링,Private Sector
+2118,교통공사,Other
+2119,데이터플라이㈜,Private Sector
+2120,키즐링㈜,Private Sector
+2121,태양광발전시,Other
+2122,한전KPS,Other
+2123,KEPCO,Other
+2124,cia,Other
+2125,drug,Other
+2126,GIST,Academia
+2127,김포한강신도시,Other
+2128,광주과학기술원,Other
+2129,PPP,Other
+2130,신수도청,Central Government
+2131,인니,Other
+2132,재무부,Central Government
+2133,APP,Other
+2134,대구테크노파크(원장,Other
+2135,미래혁신정책관,Other
+2136,경협,Other
+2137,동아시아,Other
+2138,두산,Private Sector
+2139,두산스코다파워,Private Sector
+2140,중유럽,Other
+2141,체코,Other
+2142,체코 투자청,Central Government
+2143,투자청,Central Government
+2144,파트너링,Other
+2145,중앙당,Other
+2146,총독부,Central Government
+2147,서경현,Other
+2148,NAIAD,Other
+2149,비즈데이터,Other
+2150,청주시,Central Government
+2151,대동,Other
+2152,인더텍,Other
+2153,타임리,Other
+2154,해남군,Other
+2155,북구의회,Other
+2156,위원,Other
+2157,대구상의,Other
+2158,지식재산센터,Other
+2159,체코 원전 계약,Other
+2160,한,Other
+2161,코트라(KOTRA),Other
+2162,MG손보,Other
+2163,MG손해보험,Other
+2164,PwC컨설팅,Other
+2165,메리츠,Other
+2166,메리츠화재,Other
+2167,한국언론진흥재단,Public Institution
+2168,부동산플래닛,Central Government
+2169,서울경제신문,Other
+2170,쿠시먼앤드웨이크필드,Other
+2171,특허청,Central Government
+2172,민주평화통일자문회의,Other
+2173,안전보안관연합대,Other
+2174,한국자유총연맹,Other
+2175,해병대전우회,Other
+2176,LHU,Public Institution
+2177,LH토지주택대학교,Public Institution
+2178,경상대학,Academia
+2179,현대엘리,Private Sector
+2180,현대엘리베이터,Private Sector
+2181,K-드론,Other
+2182,SK플래닛,Private Sector
+2183,니나노컴퍼니,Other
+2184,삼성SDI,Private Sector
+2185,장,Other
+2186,항공안전기술원,Public Institution
+2187,금호타이어,Other
+2188,디안시청,Central Government
+2189,서대문구,Other
+2190,서대문구청장,Central Government
+2191,아시아,Other
+2192,오리온,Other
+2193,투저우못대학교,Academia
+2194,DSK,Private Sector
+2195,드론작전사령부,Central Government
+2196,파주시,Other
+2197,도이체텔레콤,Other
+2198,Athena-Tek사,Other
+2199,㈜아이디씨티,Private Sector
+2200,유레카,Other
+2201,인천TP,Other
+2202,코아비즈,Other
+2203,기술,Other
+2204,기술경영건설,Other
+2205,기술경영건설학부,Central Government
+2206,한국토지주택공사(,Other
+2207,토지주택대학교,Academia
+2208,모빌테크,Private Sector
+2209,창업,Other
+2210,창업도약패키지,Other
+2211,경기도교육청,Central Government
+2212,경기도청,Central Government
+2213,도교육청,Central Government
+2214,국립국악원,Public Institution
+2215,서산시,Other
+2216,화물자동차,Other
+2217,부산문화회관,Central Government
+2218,대강당,Other
+2219,서방파제 재해취약지구,Other
+2220,취수원,Other
+2221,한국국토정보공사,Other
+2222,동백전,Other
+2223,부산신용보증재단,Central Government
+2224,부산청년 취업성공풀,Central Government
+2225,성원,Other
+2226,과학고,Other
+2227,미래모빌리티,Other
+2228,성남시의회,Local Government
+2229,경기주택도시공사(GH),Other
+2230,장애인복지관,Other
+2231,종합사회복지관,Other
+2232,fis,Other
+2233,메콩강,Other
+2234,캄보디아,Other
+2235,서산시청,Central Government
+2236,일대일로,Other
+2237,강원,Other
+2238,강원연구원,Other
+2239,동해안,Other
+2240,서울과학기술대,Other
+2241,세가,Other
+2242,울산연구원,Other
+2243,태화강,Other
+2244,중앙정부,Central Government
+2245,수공,Other
+2246,중소기업기술정보진흥원,Public Institution
+2247,레이크머티리얼즈,Other
+2248,한화큐셀,Private Sector
+2249,니어스랩,Other
+2250,드론쇼코리아,Other
+2251,파블로항공,Other
+2252,한화에어로스페이스,Private Sector
+2253,BS산업,Other
+2254,에듀센터,Other
+2255,용인언남지구,Other
+2256,이동공공주택지구,Other
+2257,촉진지구,Other
+2258,법원,Other
+2259,한국거래소,Other
+2260,HSAD,Other
+2261,공보담당관실,Other
+2262,권태영,Other
+2263,대외협력TF,Other
+2264,반도체신소재,Other
+2265,상수도사업본부,Other
+2266,세계도핑방지기구총회추진TF,Other
+2267,인재개발원,Other
+2268,전국체전기획단,Other
+2269,지산학협력,Other
+2270,한국산업단지공단,Public Institution
+2271,홍보담당관실,Other
+2272,국제스포츠산업,Other
+2273,총무과,Other
+2274,홍보담당관,Other
+2275,티디지,Other
+2276,솔라시도CC,Other
+2277,NGO,Citizen Organization
+2278,LGU,Private Sector
+2279,1 Forum,Other
+2280,국도1호선포럼,Other
+2281,도시연맹,Other
+2282,재생기획팀장,Other
+2283,한국항공대,Other
+2284,항공대,Other
+2285,L9블록,Other
+2286,계룡건설,Other
+2287,계룡건설산업,Other
+2288,과학문화센터,Other
+2289,세종경찰청,Central Government
+2290,합강1초,Other
+2291,일,Other
+2292,장성군,Other
+2293,Ama,Other
+2294,BS,Other
+2295,Armv9,Other
+2296,더 플라자 호텔,Other
+2297,fitn,Other
+2298,CES 2024,Other
+2299,ASML,Other
+2300,ASML코리아,Other
+2301,TBM,Other
+2302,고영테크놀로지,Other
+2303,도쿄일렉트론,Other
+2304,도쿄일렉트론코리아,Other
+2305,램리서치,Other
+2306,램리서치코리아,Other
+2307,명지대,Other
+2308,에스앤에스텍,Other
+2309,에스티아이,Other
+2310,용인캠퍼스,Other
+2311,울산과학기술원(UNIST),Academia
+2312,유진테크,Other
+2313,조지아텍,Other
+2314,주성엔지니어링,Other
+2315,팹리스,Other
+2316,솔라시,Other
+2317,빅테,Other
+2318,베이징,Other
+2319,한미,Other
+2320,바이낸스,Other
+2321,야다브,Other
+2322,고용노동부,Central Government
+2323,스마트시티건축공학과,Other
+2324,㈜에스지고려,Private Sector
+2325,시미리 일원,Other
+2326,양지2지구,Other
+2327,역북2지구,Other
+2328,역북4지구,Other
+2329,주택건설,Other
+2330,지구,Other
+2331,하이테크,Other
+2332,중구,Other
+2333,중구의회,Other
+2334,우정혁신도시,Other
+2335,(사)녹색전환연구소,Other
+2336,기후,Other
+2337,Research Institute,Other
+2338,aga,Other
+2339,역사박물관,Other
+2340,공공주택지구,Other
+2341,오전동,Other
+2342,의왕,Other
+2343,의왕산업진흥원,Public Institution
+2344,청계2지구,Central Government
+2345,초평지구,Other
+2346,녹색전환연구소,Other
+2347,첨단시,Other
+2348,유라시아,Other
+2349,자유민주,Other
+2350,천리지구지,Other
+2351,Cheonri,Other
+2352,Yongin,Other
+2353,㈜에스지고,Private Sector
+2354,삼성자산운용,Private Sector
+2355,한국수출입은행,Private Sector
+2356,우송대,Other
+2357,우송대학교,Academia
+2358,K건설,Other
+2359,도로공사,Other
+2360,포시즌스호텔,Other
+2361,한국해외인프라도시개발지원공사(,Other
+2362,지자체 혁신평가,Local Government
+2363,혁신평가,Other
+2364,환경대학원,Academia
+2365,한국공항공사,Other
+2366,한국해양진흥공사,Other
+2367,도시개발지원공사,Other
+2368,포시즌스,Other
+2369,철도공사,Other
+2370,중도위,Other
+2371,BPD,Other
+2372,PABPDSI,Other
+2373,비츠로시스,Other
+2374,FDI,Other
+2375,기아차,Private Sector
+2376,카자흐스탄,Other
+2377,우정,Other
+2378,울산정보산업진흥원,Public Institution
+2379,국립목포대학교,Public Institution
+2380,탄소중립지원센터,Other
+2381,한국항공대학교,Academia
+2382,DMCC,Other
+2383,ITC,Other
+2384,ICC,Other
+2385,LINC,Other
+2386,미디어랩,Other
+2387,헬스케어바이오텍,Other
+2388,율촌,Other
+2389,BMW,Other
+2390,메르세데스-벤츠,Other
+2391,G20,Other
+2392,G20 회의,Other
+2393,ITU,Other
+2394,ITU-,Other
+2395,ITU-T,Other
+2396,Q1 라포처,Central Government
+2397,SG20,Other
+2398,WP2,Other
+2399,WTSA-24,Other
+2400,세계전기통신표준화총회,Private Sector
+2401,한국ITU연구위원회,Central Government
+2402,국제전기통신연합,Private Sector
+2403,시리우스,Other
+2404,시에라베이스,Other
+2405,SIRIUS,Other
+2406,G20 국제,Other
+2407,SG20 회의,Other
+2408,국제표준화기구,Other
+2409,시티버스 표준전문연구실,Other
+2410,표준연,Other
+2411,스터,Other
+2412,한·미 동맹,Other
+2413,북한군,Other
+2414,HD현대사이트솔루션,Private Sector
+2415,포스코인터내셔널,Private Sector
+2416,뉴욕타임스,Other
+2417,LIN,Other
+2418,교통청,Central Government
+2419,웹,Other
+2420,신정부,Central Government
+2421,스템,Other
+2422,용인시산업진흥원,Public Institution
+2423,에티살랏,Other
+2424,복합,Other
+2425,세종대 제공,Other
+2426,재건협력포럼,Other
+2427,LIG,Other
+2428,사이버한국외국어대,Other
+2429,오라클,Other
+2430,우한,Other
+2431,캘리포니아,Other
+2432,텍사스,Other
+2433,휴렛팩커드,Other
+2434,대한교통학회,Other
+2435,서울시립대학교,Academia
+2436,한국모빌리티고등학교,Academia
+2437,심시스글로벌,Other
+2438,인지디지털트윈,Other
+2439,메쎄이상,Other
+2440,베스텔라랩,Other
+2441,서울신문,Other
+2442,서울신문사,Other
+2443,e나라,Other
+2444,2040 수원,Other
+2445,구도심,Other
+2446,수원화성,Other
+2447,수원시장,Other
+2448,NIC,Other
+2449,국가혁신센터,Other
+2450,실무회,Other
+2451,GEC,Other
+2452,WFP,Other
+2453,WFPL,Other
+2454,세계청년리더총연맹,Central Government
+2455,혁신평가위원회,Central Government
+2456,청룡,Central Government
+2457,지자체 혁신평가위원회,Central Government
+2458,혁신평가위원회(GEC,Central Government
+2459,UAE,Other
+2460,K2H,Other
+2461,아태지역,Other
+2462,윈난성,Other
+2463,지방정부연합,Central Government
+2464,쿤밍 공무원 파견,Other
+2465,쿤밍시,Other
+2466,파리에스트마른에부아,Central Government
+2467,경기주택도시공사(,Other
+2468,로보티즈,Other
+2469,샤오펑,Other
+2470,JB,Other
+2471,SK이노베이션,Private Sector
+2472,ASPAC?총회,Other
+2473,메인포럼,Other
+2474,제10차?UCLG,Private Sector
+2475,총회,Other
+2476,일산테크노밸리,Other
+2477,한국환경공단,Public Institution
+2478,네옴,Other
+2479,경기주택도시공사,Other
+2480,신세계프라퍼티,Other
+2481,신세계프라퍼티본사,Other
+2482,TCL,Other
+2483,Bea,Other
+2484,K뷰티,Other
+2485,동서유럽,Other
+2486,산업통상부,Central Government
+2487,주한체코대사관,Other
+2488,룽강구,Other
+2489,사우스차이나모닝포스트,Other
+2490,쑤첸시,Other
+2491,장쑤성,Other
+2492,징둥(JD)닷컴,Other
+2493,허베이구,Other
+2494,체코투자청,Central Government
+2495,BK21,Other
+2496,BK21 교육연구단,Other
+2497,BK21 대학원혁신사,Academia
+2498,BK21 대학원혁신사업 컨퍼런스,Academia
+2499,ICT,Other
+2500,ICT융합해양스마트시티,Other
+2501,mit,Other
+2502,교육연구팀,Other
+2503,교육팀,Other
+2504,융합사업단장,Other
+2505,한국국토정보공사(LX공사,Other
+2506,첨단기술,Other
+2507,Automotive Task Forc,Other
+2508,IATF,Other
+2509,대신증권,Other
+2510,카네비모빌리티,Other
+2511,FIP,Other
+2512,경남권,Other
+2513,라이프산업단,Other
+2514,심시스글,Other
+2515,포티투닷)포티투닷,Other
+2516,하이퐁시,Other
+2517,LH(한국토지주택공사,Public Institution
+2518,철도공단,Public Institution
+2519,광양시,Other
+2520,광양시의회,Local Government
+2521,산업건설위원회,Central Government
+2522,프라운호퍼연구그룹 IWES,Other
+2523,거제시의회,Local Government
+2524,교섭단,Other
+2525,스마트도시통합센터,Other
+2526,의회운영위원회,Central Government
+2527,육성위원회,Central Government
+2528,프라운호퍼연구그룹,Other
+2529,FIFA),Other
+2530,OCA,Other
+2531,국제축구연맹,Other
+2532,바이애슬론,Other
+2533,아시아올림픽평의회,Other
+2534,K2그룹,Other
+2535,원팀코리아,Other
+2536,이알버드,Other
+2537,폴란드건설협회,Other
+2538,대한건설정책연구원,Other
+2539,GS칼텍스,Private Sector
+2540,건설협회,Other
+2541,ICE,Other
+2542,Jam,Other
+2543,SCI,Other
+2544,HDC현대산업개발,Private Sector
+2545,삼일씨엔에스,Other
+2546,SG,Other
+2547,포스코인터,Private Sector
+2548,익산시청,Central Government
+2549,관문,Other
+2550,전문건설공제조합,Other
+2551,우크라,Other
+2552,익산,Other
+2553,익산본부,Other
+2554,전북자치도,Other
+2555,부산국제철도기술산업전,Central Government
+2556,IFEMA,Other
+2557,PACIFICO,Other
+2558,QSNCC,Other
+2559,메쎄,Other
+2560,탑동이노베이션밸리,Other
+2561,도시정책 시민계획단 원탁토론회,Citizen Organization
+2562,Samsung,Other
+2563,fan,Other
+2564,첨단과학혁신도시,Other
+2565,연우테크놀러지,Other
+2566,Technology Research Group,Other
+2567,MZ세대,Other
+2568,마이스터고,Other
+2569,명문고,Other
+2570,싸이닉스시스템,Other
+2571,엑스게이트,Other
+2572,옥타코,Other
+2573,위즈코리아,Other
+2574,지니언스,Other
+2575,팀네이버,Private Sector
+2576,CPC,Other
+2577,버밍엄,Other
+2578,울산대,Other
+2579,울산대학교,Academia
+2580,정보화위원회,Central Government
+2581,영국정부,Central Government
+2582,이노브랜치,Other
+2583,LEAP,Other
+2584,데이터인공지능청,Central Government
+2585,아람코,Other
+2586,주파이리 프로토콜캐피탈 그룹,Other
+2587,프로토콜캐피탈 그룹,Other
+2588,프로토콜캐피탈,Other
+2589,중동지역,Other
+2590,한국산업기술진흥원,Public Institution
+2591,한국교통연구원,Other
+2592,KIA,Other
+2593,㈜두루,Private Sector
+2594,㈜디에이치오토웨어,Private Sector
+2595,㈜에스오에스랩,Private Sector
+2596,㈜에코피스,Private Sector
+2597,㈜오토엘,Private Sector
+2598,㈜오톰,Private Sector
+2599,㈜유니컴퍼니,Private Sector
+2600,㈜제트이브이,Private Sector
+2601,㈜포스페이스랩,Private Sector
+2602,광주경제자유구역청,Central Government
+2603,농림식품축산부,Central Government
+2604,디에이치오토웨어,Other
+2605,제트이브이,Other
+2606,ESS,Other
+2607,모비스,Other
+2608,도시사업,Other
+2609,어워즈,Other
+2610,공무원 이주,Other
+2611,세종청사,Central Government
+2612,수쁘라뜨만,Other
+2613,bea,Other
+2614,nc,Other
+2615,Gap,Other
+2616,에코피스,Other
+2617,유니컴퍼니,Other
+2618,오토엘,Other
+2619,건강보험공단,Public Institution
+2620,행복도시건설청,Central Government
+2621,스카이 커뮤니티,Other
+2622,합강초,Other
+2623,남청주IC,Central Government
+2624,KAIA,Other
+2625,국토교통과학기술진흥원(,Public Institution
+2626,스마트로지스틱스,Other
+2627,도시안전주택국장,Other
+2628,포항남부경찰서,Central Government
+2629,기술교육원,Other
+2630,플랜트전기,Other
+2631,울진군,Other
+2632,지방정부협의회,Central Government
+2633,법무부장관,Central Government
+2634,코즐로두이,Other
+2635,서장,Other
+2636,포항시청,Central Government
+2637,고용부,Central Government
+2638,코즐로두,Other
+2639,아라비아,Other
+2640,한국에너지기술평가원,Other
+2641,LG CNS]LG CNS,Private Sector
+2642,후지쯔,Other
+2643,CNS,Other
+2644,공무원 간담회,Other
+2645,대구경북경제자유구역청,Central Government
+2646,우즈베키스탄대사,Other
+2647,LG 시나르마스,Private Sector
+2648,시나르마스 그룹,Other
+2649,주간사,Other
+2650,기업혁신파크,Private Sector
+2651,공과대학,Academia
+2652,대한토목학회,Other
+2653,차세대융합기술연구원,Other
+2654,기술연구원,Other
+2655,토목공학과,Other
+2656,기반기술,Other
+2657,기술연구원장,Other
+2658,토목공,Other
+2659,인천경제청장,Central Government
+2660,건설환경공학부,Central Government
+2661,토목공학,Other
+2662,△서울대,Other
+2663,구미상공회의소,Private Sector
+2664,구미사업장,Other
+2665,인천항만공사,Other
+2666,창업지원단,Other
+2667,▷서울대,Other
+2668,토목,Other
+2669,기반기술연구실,Other
+2670,대원씨티에스,Other
+2671,파운드리 네트웍스,Other
+2672,델,Other
+2673,검단,Other
+2674,검단구,Other
+2675,검단읍,Other
+2676,영종구,Other
+2677,영종도,Other
+2678,유희강,Other
+2679,인천항,Other
+2680,행정안전위,Other
+2681,기초의회,Other
+2682,신도심,Other
+2683,한국전쟁,Other
+2684,인천연구원,Other
+2685,문화예술회관,Other
+2686,왕곡지구,Other
+2687,의왕시장,Other
+2688,대한상의,Other
+2689,112상황실,Other
+2690,합천경찰서,Other
+2691,합천경찰서장,Other
+2692,합천군,Other
+2693,합천초,Other
+2694,플랜트ㆍ건설ㆍ스마트시티,Other
+2695,SMIC,Other
+2696,어센드,Other
+2697,중국공산당,Other
+2698,퀄컴,Other
+2699,LH연구원,Public Institution
+2700,iH,Other
+2701,국립항공박물관,Public Institution
+2702,안양 스마트시티 통합센터,Other
+2703,철도교통관제센터,Other
+2704,한국도로공사 교통센터,Other
+2705,현대모터스튜디,Private Sector
+2706,ZMP,Other
+2707,뉴빌리티,Other
+2708,AMR,Other
+2709,오토모티브,Other
+2710,최고경영자,Other
+2711,에스엘,Other
+2712,삼성증권,Private Sector
+2713,도구공간,Other
+2714,임하,Other
+2715,코스닥,Other
+2716,이지스자산운용,Other
+2717,라스베이거스,Other
+2718,부산경제진흥원,Central Government
+2719,가스관,Other
+2720,아큐버,Other
+2721,이동,Other
+2722,용인시용인특례시,Other
+2723,일산동구청,Central Government
+2724,일산서구,Other
+2725,Hynix,Other
+2726,공산,Other
+2727,FIT,Other
+2728,겐트대학교 마린유겐트연구소,Academia
+2729,스탠포드대학교,Academia
+2730,스토니브룩대(SBU,Other
+2731,유타대학교,Academia
+2732,패션기술대,Other
+2733,한국조지메이슨대학교,Academia
+2734,양우건설,Other
+2735,오송역,Other
+2736,청주국제공항,Central Government
+2737,한국재료연구원,Other
+2738,울산시청,Central Government
+2739,세종지역,Other
+2740,싸토리우스,Other
+2741,청라,Central Government
+2742,싸이티바,Other
+2743,인천글로벌캠퍼스(IGC),Other
+2744,롯데바이오로직스,Private Sector
+2745,서밋 이니셔티브,Other
+2746,국민대,Other
+2747,모건스탠리,Other
+2748,네이버1784,Private Sector
+2749,스위스,Other
+2750,교육특화총괄본부,Other
+2751,금정고등학교,Academia
+2752,부산교대,Central Government
+2753,부산교육대학교,Central Government
+2754,부산대-부산교대,Central Government
+2755,부산대학교,Central Government
+2756,사범대학생회장,Academia
+2757,양산캠퍼스,Other
+2758,의생명특화총괄본부,Other
+2759,AA아키그룹,Other
+2760,ANU건축,Other
+2761,에이앤유디자인그룹건축사사무소,Other
+2762,건축사사무소,Other
+2763,정림건축,Other
+2764,나라장터,Other
+2765,기업은행,Private Sector
+2766,산업은행,Private Sector
+2767,포스텍(포항공과대학교,Academia
+2768,세대원,Other
+2769,테라스하우스,Other
+2770,K-스타트,Other
+2771,일본계,Other
+2772,CES 2025',Other
+2773,대구기계부품연구원,Central Government
+2774,수성알파시티에,Other
+2775,MDS테크,Other
+2776,LH-,Public Institution
+2777,LH사장,Public Institution
+2778,네이튼장,Other
+2779,라온메디,Other
+2780,브엉깐주,Other
+2781,경기주택도시공사-킨텍스,Other
+2782,경기주택도시공사(GH,Other
+2783,경산시장,Other
+2784,AI,Other
+2785,가우디오랩,Other
+2786,엠티에스컴퍼니,Other
+2787,웅진씽크빅,Other
+2788,전북대병원,Other
+2789,전주고,Other
+2790,합강중,Other
+2791,에이슬립,Other
+2792,엠티에스컴,Other
+2793,한국디자인단체총연합회,Other
+2794,한국상품문화디자인학회,Other
+2795,금천구청,Central Government
+2796,아산시청,Central Government
+2797,세계경제포럼,Other
+2798,애드미러,Other
+2799,델프트공대,Other
+2800,공모주,Other
+2801,과기원,Other
+2802,인사청문특위,Central Government
+2803,주거,Other
+2804,K-시티,Other
+2805,동대문구,Other
+2806,동대문구청,Central Government
+2807,동대문구청장,Central Government
+2808,에코프로,Other
+2809,마레몬스호텔,Other
+2810,한화포레나부산덕천,Central Government
+2811,합강중학교,Academia
+2812,유관부서장,Central Government
+2813,천안논산고속도로,Other
+2814,합호서원,Other
+2815,Sr,Other
+2816,덴탈,Other
+2817,스리차,Other
+2818,에이든랩스,Other
+2819,피킷스리차나,Other
+2820,엠피닥터,Other
+2821,도시통합정보센터,Other
+2822,보령시,Other
+2823,시민참여단,Citizen Organization
+2824,아토리서치,Other
+2825,클라우드앤,Other
+2826,ms,Other
+2827,갠지스강,Other
+2828,기독교,Other
+2829,네팔,Other
+2830,녹야원,Other
+2831,다신교,Other
+2832,대한주택건설협회,Other
+2833,무굴제국,Other
+2834,밀교,Other
+2835,불교,Other
+2836,불교문화,Other
+2837,브라만교,Other
+2838,시크교,Other
+2839,아그라,Other
+2840,엘지,Other
+2841,영축산,Other
+2842,왕사성,Other
+2843,이슬람교,Other
+2844,이슬람교도,Other
+2845,이슬람사원,Other
+2846,인도정부,Central Government
+2847,자이나교,Other
+2848,조계종,Other
+2849,중앙신도회,Other
+2850,카스트제도,Other
+2851,쿠와트,Other
+2852,타지마할,Other
+2853,한국신문,Other
+2854,헤럴드경제,Other
+2855,힌두교,Other
+2856,힌두교사원,Other
+2857,도시건설청,Central Government
+2858,사상공단,Public Institution
+2859,사상구청장,Central Government
+2860,라온센티널,Other
+2861,세미나,Other
+2862,사회복,Other
+2863,사회복지,Other
+2864,JB주식회사,Private Sector
+2865,그린산업단지,Other
+2866,다쏘시쓰템,Other
+2867,디케이테크인,Other
+2868,아인스에스엔씨,Other
+2869,우아한형제들,Other
+2870,천안만,Other
+2871,코나아이,Other
+2872,다자개발은행,Private Sector
+2873,INSTAR 페스티벌,Other
+2874,원우회,Other
+2875,그린산업,Other
+2876,BK,Other
+2877,HGTECH,Other
+2878,무한대학 대학원 실험실,Academia
+2879,호북공업대학,Academia
+2880,화중농업대학,Academia
+2881,천안시청,Central Government
+2882,방배동,Other
+2883,서울 아파트,Other
+2884,INSTAR,Other
+2885,페블스퀘어,Other
+2886,BEA,Other
+2887,INTEGRA,Other
+2888,LINC3.0사업단,Other
+2889,WI,Other
+2890,경남대학교,Academia
+2891,경제개발청,Central Government
+2892,메타버,Other
+2893,버시스,Other
+2894,쉐코,Other
+2895,유니버설 뮤직,Other
+2896,이엠씨티,Other
+2897,드림가이드컴퍼니,Other
+2898,아이이에스지,Other
+2899,LINC3.0사업단장,Other
+2900,대구디지털혁신진흥원,Public Institution
+2901,계명대,Other
+2902,대구경북경제자유구역,Other
+2903,첨단산업단지,Other
+2904,스마트비즈니스센터,Other
+2905,영남대,Other
+2906,중남미,Other
+2907,파나소닉,Other
+2908,메타버스월드,Other
+2909,유니버설 뮤직 그룹,Other
+2910,인천-IFEZ관,Other
+2911,참관단,Other
+2912,AR,Other
+2913,GIO,Other
+2914,MZ,Other
+2915,통신정보기술부,Central Government
+2916,엔씨소프트,Private Sector
+2917,일화,Other
+2918,Consumer Electronics Show) 2025,Other
+2919,2025 WSCE,Other
+2920,국회세종의사당,Central Government
+2921,더플라자 호텔,Other
+2922,디지털플랫폼정부위원회,Central Government
+2923,오픈업,Other
+2924,이엠시티,Other
+2925,GICC,Other
+2926,제주항공,Other
+2927,농식품부,Central Government
+2928,NCC,Other
+2929,다케후미,Other
+2930,도시정비부,Central Government
+2931,마쓰부,Central Government
+2932,우츠노미야시,Other
+2933,제정심의실 스마트시티 그룹,Other
+2934,ROBOne,Other
+2935,고려아연,Other
+2936,에브테라,Other
+2937,트로이카,Other
+2938,한길리서치,Other
+2939,A사,Other
+2940,B사,Other
+2941,D사,Other
+2942,㈜뉴작,Private Sector
+2943,㈜비케이에너지,Private Sector
+2944,㈜휴먼아이티솔루션,Private Sector
+2945,벤처캐피탈,Central Government
+2946,썬스톤,Other
+2947,전남관,Other
+2948,전라남도,Other
+2949,제공전라남도,Other
+2950,휴먼아이티솔루션과 ㈜비케이에너지,Private Sector
+2951,CES2025,Other
+2952,C랩,Other
+2953,대구경북과학기술원,Other
+2954,마인스페이스,Other
+2955,삼성 간판,Private Sector
+2956,안진혁,Other
+2957,퀘스터,Other
+2958,핀포인트,Other
+2959,C랩 아웃사이드,Other
+2960,고스트패스,Other
+2961,메디트릭스,Other
+2962,삼성서울병원,Private Sector
+2963,퀘스트,Other
+2964,누비랩,Other
+2965,D2SF,Other
+2966,비케이에너지,Other
+2967,휴먼아이티솔루션,Other
+2968,미래자동차,Other
+2969,L1,Other
+2970,딥파인,Other
+2971,성동구,Other
+2972,유레카 파크,Other
+2973,에딘트,Other
+2974,랩에스디,Other
+2975,라이덕,Other
+2976,SINGLEX,Other
+2977,클라,Other
+2978,마스턴투자운용,Other
+2979,케이뱅크,Other
+2980,추진위원회,Central Government
+2981,모빌리티 동맹,Other
+2982,모셔널,Other
+2983,앱티브,Other
+2984,제너럴모터스,Other
+2985,라이다,Other
+2986,유니유니,Other
+2987,3.0사업단,Other
+2988,에코피스 주식회사,Private Sector
+2989,전남대학교,Academia
+2990,전남지사,Other
+2991,데크하우스 커뮤니케이션즈,Other
+2992,오스쿠 칼카야,Other
+2993,케이,Other
+2994,안양시장,Other
+2995,부산시의회,Central Government
+2996,광주전남지역,Other
+2997,CES서,Other
+2998,해외건설협회장,Other
+2999,PP,Other
+3000,삼성그룹,Private Sector
+3001,INCHEON-,Other
+3002,가에고,Other
+3003,챔버,Other
+3004,INCHEON,Other
+3005,롯데이노베이트,Private Sector
+3006,겐트대,Other
+3007,겐트대학교,Academia
+3008,스탠다드에너지,Other
+3009,이온,Other
+3010,한남대,Other
+3011,LG 옵타펙스,Private Sector
+3012,클라우드사업부,Central Government
+3013,KB증권,Other
+3014,뱅크오브아메리카,Other
+3015,맥쿼리,Other
+3016,맥쿼리자산운용,Other
+3017,산학협력선도대학,Academia
+3018,정보통신산업정책관,Private Sector
+3019,회원,Other
+3020,내일꿈제작소 건립,Other
+3021,시군,Other
+3022,시민복지,Citizen Organization
+3023,AICC,Other
+3024,맥쿼리PE,Other
+3025,(이화여대,Other
+3026,메타파머스,Other
+3027,서울캠퍼스타운,Other
+3028,소비자기술협회,Other
+3029,휴로틱스,Other
+3030,FAA,Other
+3031,L20,Other
+3032,연방항공국,Other
+3033,언베일드,Other
+3034,Electronic Show,Other
+3035,써모아이,Other
+3036,커넥,Other
+3037,ZEB,Other
+3038,건축사무소대표,Other
+3039,싸이트플래닝,Other
+3040,하남교산지구,Other
+3041,건축학과,Other
+3042,X-Tech,Other
+3043,인천스타트업,Private Sector
+3044,홍보관,Other
+3045,abc,Other
+3046,개성,Other
+3047,고복저수지,Other
+3048,국립수목원,Public Institution
+3049,금강보행교,Other
+3050,금수동갤러리,Other
+3051,도시정원,Other
+3052,마천루,Other
+3053,문화정원,Other
+3054,밴가드1아트센터,Other
+3055,베어트리파크,Other
+3056,부강,Central Government
+3057,부강포구,Central Government
+3058,산일제사,Other
+3059,세종수목원,Other
+3060,세종화랑협회,Other
+3061,아르스,Other
+3062,연서면,Other
+3063,웰컴하우스,Other
+3064,유니크,Other
+3065,홍판서댁,Other
+3066,농생명,Other
+3067,ppr,Other
+3068,미국소비자기술협회(CTA),Other
+3069,CJ,Private Sector
+3070,한국투자증권,Other
+3071,K스타트업 통합관,Private Sector
+3072,슈프리마에이아이,Other
+3073,만달레이베이,Other
+3074,경영혁신위원회,Central Government
+3075,경영혁신전략회의,Other
+3076,산학협력위원회,Central Government
+3077,정례회,Other
+3078,신안그린테크,Other
+3079,인비즈,Other
+3080,스마트큐브,Other
+3081,와이그램,Other
+3082,희생자,Other
+3083,00 본회의,Other
+3084,CHA,Other
+3085,게이트,Other
+3086,국회사무총장,Central Government
+3087,국회운영위원회,Central Government
+3088,상임위원회,Central Government
+3089,전종덕 의원실,Other
+3090,제2세미나,Other
+3091,진보당,Other
+3092,진상조사단,Other
+3093,조국혁신당,Other
+3094,SA,Other
+3095,한국매니페스토실천본부,Other
+3096,영국표준협회(BSI,Other
+3097,egas,Other
+3098,도요다,Other
+3099,피투제이,Other
+3100,CES 2023,Other
+3101,㈜고스트패스,Private Sector
+3102,㈜그린토크,Private Sector
+3103,㈜리버트리,Private Sector
+3104,㈜블루캡슐,Private Sector
+3105,㈜사각,Private Sector
+3106,㈜아트랩,Private Sector
+3107,㈜인디제이,Private Sector
+3108,㈜인비즈,Private Sector
+3109,㈜호그린에어,Private Sector
+3110,디닷캐어,Other
+3111,메리핸드,Other
+3112,멤스,Other
+3113,삼성C-LAB,Private Sector
+3114,쉐어,Other
+3115,에코피스주식회사,Private Sector
+3116,정션메드,Other
+3117,토요타자동차,Other
+3118,CIP,Other
+3119,GS에너지,Private Sector
+3120,영국표준협회,Other
+3121,델타항공,Other
+3122,테크크런치,Other
+3123,VIB,Other
+3124,서울대학교 환경대학원,Academia
+3125,봉은사,Other
+3126,미국소비자기술협회(CTA,Other
+3127,볼보,Other
+3128,텐마인즈,Other
+3129,아모레퍼시픽,Other
+3130,브로커,Other
+3131,경복대,Other
+3132,경복대학교,Academia
+3133,HL그룹,Other
+3134,소비자기술협회(CTA,Other
+3135,가트너,Other
+3136,부산관광공사,Central Government
+3137,의정부공고 교명변경,Central Government
+3138,매일경제 취재팀,Other
+3139,웨스트홀,Other
+3140,기획투자부,Central Government
+3141,CJ인베스트먼트,Private Sector
+3142,Z벤처캐피탈,Central Government
+3143,글락소스미스클라인(GSK),Private Sector
+3144,무니스,Other
+3145,식약처,Central Government
+3146,신한벤처투자,Central Government
+3147,에이온인베스트먼트,Other
+3148,엠엠에스벤처스,Central Government
+3149,연세대학교바이오헬스기술지주회사,Academia
+3150,카익투벤처스,Central Government
+3151,쿼드메디슨,Other
+3152,호라이즌인베스트먼트,Other
+3153,LG에너지,Private Sector
+3154,뉴욕대,Other
+3155,코스닥협회,Other
+3156,TV조선,Other
+3157,연무동,Other
+3158,도봉구,Other
+3159,도봉구청장,Central Government
+3160,도시정보,Other
+3161,도시데이터,Other
+3162,무안군,Other
+3163,(재)부산정보산업진흥원,Central Government
+3164,과학기술정통부,Central Government
+3165,는 국토교통,Other
+3166,KIST,Other
+3167,한국과학기술연구원,Other
+3168,매경미디어그룹,Other
+3169,대구창조경제혁신센터,Other
+3170,광운대,Other
+3171,미·중 갈등,Other
+3172,㈜한양,Private Sector
+3173,스카이랩스,Other
+3174,앤오픈,Other
+3175,한아세안 특별정상회의,Other
+3176,양자정보기술,Other
+3177,클라우드 엑스포,Other
+3178,경기도 교육청,Central Government
+3179,부곡커뮤니티센터,Central Government
+3180,왕송호수공원,Other
+3181,장애인단기보호센터,Other
+3182,포일숲속마을,Other
+3183,죽스,Other
+3184,한·아세안 특별정상회의,Other
+3185,목포시장,Other
+3186,음식진흥센터,Other
+3187,호남고속철도,Other
+3188,벡스코서,Other
+3189,Sk,Other
+3190,아세안 특별정상회의,Other
+3191,브레인유,Other
+3192,성남산업진흥원,Public Institution
+3193,한경 긱스,Other
+3194,의정부공고 교육공동체,Central Government
+3195,볼보 그룹,Other
+3196,에이투어스,Other
+3197,포스코그룹,Private Sector
+3198,세종공동캠퍼스,Other
+3199,세종시립도서관,Other
+3200,정부세종청사,Central Government
+3201,인천일보,Other
+3202,"국토장관 ""제주항공 참사",Other
+3203,국토부장관,Central Government
+3204,대원근린공원,Other
+3205,기술가치창출원장,Other
+3206,넥스트웨이브,Other
+3207,파네시아,Other
+3208,플랜바이테크놀로지스,Other
+3209,기술가치창출원,Other
+3210,IF,Other
+3211,리빙랩 시민연구원,Citizen Organization
+3212,시민연구원,Citizen Organization
+3213,디닷엣지,Other
+3214,디닷허브,Other
+3215,디토닉,Other
+3216,한국가스안전공사,Other
+3217,LG이노텍,Private Sector
+3218,동나이성,Other
+3219,빈즈엉성,Other
+3220,SK텔레콤·KT·LG유플러스,Private Sector
+3221,필리핀정부,Central Government
+3222,한·필리핀,Other
+3223,BECAMEX,Other
+3224,CSEM사,Other
+3225,SCEWC 어워즈,Other
+3226,㈜에프엠케이,Private Sector
+3227,스마트넷제로시티,Other
+3228,인베스트,Other
+3229,한국수자원공사(,Other
+3230,SCEWC 2024,Other
+3231,라이트,Other
+3232,리솔,Other
+3233,JDC,Other
+3234,제주국제자유도시개발센터,Other
+3235,제주시청,Central Government
+3236,제주특별자치도,Other
+3237,탐라자율차,Other
+3238,기술보증기금,Other
+3239,태안군청,Central Government
+3240,신도시개발,Other
+3241,BMC,Other
+3242,고양도시관리공사,Other
+3243,국무총리,Other
+3244,동국대학교,Academia
+3245,동국대학교BMC,Academia
+3246,동국대학교BMC캠퍼스-일산동부경찰서,Central Government
+3247,인사혁신처,Central Government
+3248,일산동부경찰서,Central Government
+3249,한동균,Other
+3250,KOTRA오사카 파견,Other
+3251,감사담당,Other
+3252,감사담당관실,Other
+3253,건설본부,Other
+3254,경제정책,Other
+3255,경제정책과,Other
+3256,공보담당관,Other
+3257,공항기획,Other
+3258,공항기획과,Other
+3259,과거사정리위원회 파견,Central Government
+3260,관광마이스산업,Other
+3261,국무조정실 파견,Central Government
+3262,기획담당관실,Other
+3263,김대우,Private Sector
+3264,대중,Other
+3265,맑은물정책과,Other
+3266,문화예,Other
+3267,문화예술과,Other
+3268,미래에너지산업과,Other
+3269,보건환경연구원,Other
+3270,부산진해경제자유구역청,Central Government
+3271,빅데이터통계담당,Other
+3272,산업통상자원부 파견,Central Government
+3273,서울본부,Other
+3274,세정정책담당관,Other
+3275,수산자원연구소,Other
+3276,시의회사무처,Central Government
+3277,신공항사업지원,Other
+3278,신공항사업지원단,Other
+3279,아동,Other
+3280,여성,Other
+3281,영상콘텐츠산업,Other
+3282,예산담당관,Other
+3283,자원순환과장,Other
+3284,재정협력담당관,Other
+3285,조직담당관,Other
+3286,지방시대위원회 파견,Central Government
+3287,지산학협력과장,Other
+3288,차량등록사업소,Other
+3289,총무,Other
+3290,치의학바이오,Other
+3291,택시운수,Other
+3292,한국지역정보개발원,Other
+3293,한창엽,Other
+3294,해양자연사박물,Other
+3295,현대미술관,Private Sector
+3296,신공항,Other
+3297,타타 모터스,Other
+3298,e Living,Other
+3299,동국대,Other
+3300,CSEM,Other
+3301,주택공간위원회,Central Government
+3302,KG,Other
+3303,모빌리티,Other
+3304,TIPF,Other
+3305,공학한림원,Other
+3306,이사,Other
+3307,해밀동,Other
+3308,HABITAT,Other
+3309,공공데이터전략위원회,Central Government
+3310,스마트도시위원회,Central Government
+3311,원광에스앤티,Other
+3312,자원순환정책과장,Other
+3313,고양가디언즈,Other
+3314,셀리코,Other
+3315,혁신산업국장,Other
+3316,원광S&T,Other
+3317,전기안전공사,Other
+3318,정보통신융합,Private Sector
+3319,폐스티로폼,Other
+3320,농업부,Central Government
+3321,숭실대,Other
+3322,리더십 아카데미,Other
+3323,인공지능대학원,Academia
+3324,스튜디오랩,Other
+3325,이코노믹스,Other
+3326,가평군,Other
+3327,강원교육청,Central Government
+3328,강원창업창업체험센터,Other
+3329,강원창업체험센터,Other
+3330,강원특별자치도교육청,Central Government
+3331,석정여고,Other
+3332,영남대학교,Academia
+3333,엔비디아 GPU,Other
+3334,XR,Other
+3335,버츄얼프로덕션,Other
+3336,아시아개발은행,Private Sector
+3337,한국개발연구원,Other
+3338,부산창업청,Central Government
+3339,창경센터,Other
+3340,카네기멜론대,Other
+3341,BK21사업 중간평가서 전국,Other
+3342,ERICA캠퍼스,Other
+3343,서울·ERICA캠퍼스,Other
+3344,서울캠퍼스,Other
+3345,인문사회과학기술융복합,Other
+3346,차세대통신,Private Sector
+3347,광명시광명시,Other
+3348,탄소중립,Other
+3349,BISTEP,Other
+3350,아젠다,Other
+3351,영국표준협회(BSI),Other
+3352,VR,Other
+3353,게임인재단,Public Institution
+3354,성남시청소년재단,Central Government
+3355,진로체험관,Other
+3356,늘봄다봄센터,Other
+3357,부북면,Central Government
+3358,성과평가위원회,Central Government
+3359,푸드뱅크,Other
+3360,재난관리평가,Other
+3361,gist,Other
+3362,중앙도시계획위,Other
+3363,대공,Other
+3364,창녕군,Other
+3365,예결위,Other
+3366,씨엔티테크,Other
+3367,하버드,Other
+3368,두산위브 더센트럴,Private Sector
+3369,코맥스,Other
+3370,테크노밸리,Other
+3371,음성군,Other
+3372,달서구,Other
+3373,달서구청장,Central Government
+3374,충북도,Other
+3375,달서구청,Central Government
+3376,충주시청,Central Government
+3377,행정복지,Other
+3378,한국선급,Other
+3379,경남테크노파크,Other
+3380,동서대,Other
+3381,부산정보산업진흥원장,Central Government
+3382,무역관장,Other
+3383,INCHEON-IFEZ관,Other
+3384,참관,Other
+3385,iH(인천도시공사,Other
+3386,위드,Other
+3387,INCHEON-IFEZ,Other
+3388,Circ,Other
+3389,프레스센터,Other
+3390,교류회,Other
+3391,동반협력기업,Private Sector
+3392,리빙랩지원단,Other
+3393,지원단,Other
+3394,한국보건산업진흥원,Public Institution
+3395,리빙,Other
+3396,밤,Other
+3397,한국표준협회,Other
+3398,쿤텍,Other
+3399,쿤텍(대표,Other
+3400,뉴스핌,Other
+3401,씽크풀,Other
+3402,한화투자증권,Private Sector
+3403,HFR,Other
+3404,인천도시공사,Other
+3405,자유구역,Other
+3406,Abc,Other
+3407,대보건설,Other
+3408,제일건설,Other
+3409,도심부,Central Government
+3410,SNS,Other
+3411,서울통합,Other
+3412,해병대 협치,Other
+3413,P-2구역,Other
+3414,동아닷컴,Other
+3415,i-SMR,Other
+3416,드론,Other
+3417,IEA,Other
+3418,국제에너지기구,Other
+3419,어반테크,Other
+3420,에어비앤비,Other
+3421,해양수산부,Central Government
+3422,해진공,Other
+3423,KOBC,Other
+3424,골드시티,Other
+3425,서울주택공사(SH),Other
+3426,솔라시도 골프앤빌리지,Other
+3427,솔라시도CC 옆,Other
+3428,열린도서관,Other
+3429,위더스,Other
+3430,재경 향우 시군지회,Other
+3431,첨단신도시,Other
+3432,향우회장,Other
+3433,교육혁신원장,Other
+3434,대구대,Other
+3435,대구대학교,Academia
+3436,해양진흥공사,Other
+3437,한국전자통신연구원(,Private Sector
+3438,HMGICS,Other
+3439,관악구,Other
+3440,관악구청장,Central Government
+3441,모범의회,Other
+3442,의원,Other
+3443,LINC3,Other
+3444,CJ·,Private Sector
+3445,RAG,Other
+3446,SK·동원그룹,Private Sector
+3447,SaaS,Other
+3448,e마트,Other
+3449,mHUB,Other
+3450,가스공사,Other
+3451,건보단,Other
+3452,근복단,Other
+3453,대법원,Other
+3454,디지털트윈교통,Other
+3455,미들웨어SW,Other
+3456,심평원,Other
+3457,하나은행,Private Sector
+3458,K-MOOC,Other
+3459,교육혁신원,Other
+3460,국가평생교육진흥원,Public Institution
+3461,군지회,Other
+3462,중앙일보,Other
+3463,국립국어원,Public Institution
+3464,세종학당재단,Public Institution
+3465,국민대학교,Academia
+3466,베를린,Other
+3467,㈜건축설계사무소,Private Sector
+3468,성심당,Other
+3469,중앙로,Other
+3470,한남대학교,Academia
+3471,캠틱종합기술원,Other
+3472,국제경영개발대학원,Academia
+3473,마켓어스,Other
+3474,울산중구의회,Other
+3475,(사)부산방송영상포럼,Central Government
+3476,게임공학과,Other
+3477,동명대,Other
+3478,동의대 대학원,Academia
+3479,부산시청자미디어센터,Central Government
+3480,부산영상공모전,Central Government
+3481,부산지역,Central Government
+3482,부산청년정책연구원,Central Government
+3483,시청자미디어재단,Central Government
+3484,BoomUp,Other
+3485,IKMP,Other
+3486,Invest,Other
+3487,바우처,Central Government
+3488,붐업코리아,Other
+3489,웨비나,Other
+3490,인베스트코리아,Other
+3491,인베스트코리아서밋,Other
+3492,서울스마트시티센터,Other
+3493,LINC3.0,Other
+3494,신청서 작성법 멘토링,Central Government
+3495,리서치프레너,Other
+3496,마이크로소프트사,Other
+3497,베를린 주정부,Central Government
+3498,에이버츄얼,Other
+3499,카이미,Other
+3500,Advanced Materials,Other
+3501,MSCA,Other
+3502,범한퓨얼셀,Other
+3503,자통상산업부,Central Government
+3504,자프룰,Other
+3505,sk,Other
+3506,융기원,Other
+3507,융기원장,Other
+3508,차석원,Other
+3509,경로당 통합정보 서비스,Other
+3510,남해군,Other
+3511,남해경찰서,Other
+3512,대한노인회,Other
+3513,체인지업그라운드,Other
+3514,유럽연합(,Other
+3515,KDB산업은행,Private Sector
+3516,LH세종특별본부,Public Institution
+3517,경주,Other
+3518,경희사이버대,Other
+3519,경희사이버대학교,Academia
+3520,레드햇,Other
+3521,노르마,Other
+3522,큐리온,Other
+3523,서울주택도시공사(SH),Other
+3524,IBSF,Other
+3525,평창군,Other
+3526,평창관광문화재단,Public Institution
+3527,기상청,Central Government
+3528,동부산관광단지,Central Government
+3529,도시재생지원센터,Other
+3530,시흥시,Other
+3531,기상청장,Central Government
+3532,시흥시장,Other
+3533,SK바이오,Private Sector
+3534,국제고,Other
+3535,덕신고,Other
+3536,박문여고,Other
+3537,북일고,Other
+3538,양정고,Other
+3539,인일여고,Other
+3540,인천탁주,Other
+3541,하나고,Other
+3542,하늘고,Other
+3543,한국조지메이슨대,Other
+3544,SW중심대학사업단장,Academia
+3545,경기대학교,Academia
+3546,교육경제개발연구소,Other
+3547,콘텐츠융합소프트웨어연구소,Other
+3548,마스턴아메리카,Other
+3549,맨해튼,Other
+3550,소메라로드,Other
+3551,WeGO,Other
+3552,세계스마트시티기구,Other
+3553,유엔해비타트,Other
+3554,의정부시장,Central Government
+3555,경제위,Other
+3556,경제위원회,Central Government
+3557,수원시의회,Local Government
+3558,한치훈,Other
+3559,호텔,Other
+3560,Prime Minister,Other
+3561,의정부시의정부시,Central Government
+3562,의정부시 제공,Central Government
+3563,소메라로,Other
+3564,에비뉴,Other
+3565,마스턴아,Other
+3566,LGCNS,Private Sector
+3567,서스틴베스트,Other
+3568,무역관,Other
+3569,EPA,Other
+3570,의왕시의회,Local Government
+3571,도시통,Other
+3572,바이브컴퍼니,Other
+3573,팁스,Other
+3574,Hello,Other
+3575,KF,Other
+3576,TMG,Other
+3577,국제민간친선협회,Other
+3578,국제전기통신연합(,Private Sector
+3579,국제협력진흥기금,Other
+3580,안양시스마트도시통합센터,Other
+3581,한국국제교류재단,Public Institution
+3582,홍익대 세종캠퍼스,Other
+3583,유엔총회,Other
+3584,IPTE,Other
+3585,양우종합건설,Other
+3586,메가존클라우드,Other
+3587,국가지역경쟁력연구원,Other
+3588,국회행정안전위원회,Central Government
+3589,자치회,Other
+3590,지방시대위원회,Central Government
+3591,영상,Other
+3592,공동성명,Other
+3593,국가기술표준원장,Other
+3594,명동,Other
+3595,장기 이니셔티브,Other
+3596,한-아세안,Other
+3597,국표원,Other
+3598,한-아세안 정상회의,Other
+3599,네이버 1784 사옥,Private Sector
+3600,WMO,Other
+3601,세계기상기구,Other
+3602,농진청,Central Government
+3603,농촌진흥청,Central Government
+3604,경남도의원,Other
+3605,도의회,Local Government
+3606,㈜구영테크,Private Sector
+3607,㈜씨아이에스,Private Sector
+3608,구영테크,Other
+3609,대구중,Other
+3610,미래첨단소재㈜,Private Sector
+3611,대구광역시장,Other
+3612,APCEIU,Other
+3613,국제이해교육원,Other
+3614,미래모빌리티학교,Academia
+3615,㈜YH데이타베이스,Private Sector
+3616,㈜오대,Private Sector
+3617,기승공업,Other
+3618,농업회사,Other
+3619,대구중소기업인대회,Private Sector
+3620,심사위원회,Central Government
+3621,그린스마트시티,Other
+3622,벤처투자조합,Central Government
+3623,솔루엠,Other
+3624,모빌리티산업전,Other
+3625,SH공사,Other
+3626,서울주택도시공사(SH공사),Other
+3627,용산국제업무지구,Other
+3628,태평양,Other
+3629,진주시,Other
+3630,Ibr,Other
+3631,신라호텔,Other
+3632,국토교통부장관,Central Government
+3633,과천과학관,Other
+3634,금천구,Other
+3635,금천구청장,Central Government
+3636,유튜버,Other
+3637,첨단산업,Other
+3638,교통대,Other
+3639,HBM,Other
+3640,오피니언,Other
+3641,수출입은행장,Private Sector
+3642,시티스케이프,Other
+3643,강원일보,Other
+3644,사람인,Other
+3645,암스테르담,Other
+3646,춘천사회혁신센터,Other
+3647,국립도시건축박물관,Public Institution
+3648,국립디자인박물관,Public Institution
+3649,국립디지털문화유산센터,Public Institution
+3650,향토유물박물관,Other
+3651,대회,Other
+3652,마크로젠,Other
+3653,진로진학교사,Academia
+3654,남원시,Other
+3655,횡성군,Other
+3656,원수,Other
+3657,부경대,Central Government
+3658,L&T,Other
+3659,진흥원장,Public Institution
+3660,유엔(,Other
+3661,KDB인프라자산운용,Other
+3662,스미토모상사,Other
+3663,카라마,Other
+3664,한국남부발전,Central Government
+3665,동양일보,Other
+3666,통일,Other
+3667,동남신도시,Other
+3668,정보통신담당관,Private Sector
+3669,경기고양특,Other
+3670,BKCF,Other
+3671,UNIFIL,Other
+3672,가자 지구,Other
+3673,경제협력위원회,Central Government
+3674,동방,Other
+3675,동방정책,Other
+3676,세종학당,Other
+3677,아세안 확대국방장관회의,Other
+3678,아세안+,Other
+3679,유엔 안전보장이사회,Other
+3680,유엔 헌장,Other
+3681,정상,Other
+3682,정상회의,Other
+3683,평화유지군,Other
+3684,한-말레이시아 정책협의회,Other
+3685,UGPP,Other
+3686,시나르마스그룹,Other
+3687,충청지역,Central Government
+3688,피치북,Other
+3689,뤼튼테크놀로지스,Other
+3690,씨아이티,Other
+3691,㈜짐,Private Sector
+3692,뉴에너지㈜,Private Sector
+3693,ICB,Other
+3694,nuc,Other
+3695,유엔안보리,Other
+3696,정상회담,Other
+3697,Korea,Other
+3698,삼성중공업,Private Sector
+3699,부처,Central Government
+3700,아세안(,Other
+3701,AWA,Other
+3702,GS인증,Private Sector
+3703,한국표준협회(KSA),Other
+3704,FH도르트문트대,Other
+3705,창립총회,Other
+3706,마스다르,Other
+3707,도심항공모빌리티,Other
+3708,대외/ESG,Other
+3709,인프라금융부장,Central Government
+3710,팀네이버-,Private Sector
+3711,남빈증출장소,Other
+3712,베트남우리은행,Private Sector
+3713,네이버·네이버클라우드,Private Sector
+3714,대외·ESG,Other
+3715,업무협약,Other
+3716,정책,Other
+3717,나이지리아,Other
+3718,세네갈,Other
+3719,인천스마트시티,Other
+3720,잠비아,Other
+3721,케냐,Other
+3722,중국대사관,Other
+3723,FCEV,Other
+3724,KG그룹,Other
+3725,한국타이어,Other
+3726,중고차,Other
+3727,한국타이어앤테크놀로지,Other
+3728,kit,Other
+3729,기보,Other
+3730,한국수출입은행장,Private Sector
+3731,백현마이스,Other
+3732,분당벤처밸리,Central Government
+3733,하이테크밸리,Other
+3734,혁신연구센터,Other
+3735,보훈명예수당,Other
+3736,28청춘창업소,Central Government
+3737,경기신용보증재단,Public Institution
+3738,고양미래교육협력지구,Other
+3739,노인종합복지관,Other
+3740,아이알데이,Other
+3741,ERBUD,Other
+3742,펜타시티,Other
+3743,평택브레인시티 한신더휴,Other
+3744,포항 펜타시티 한신더휴,Other
+3745,한신더휴,Other
+3746,창업경제혁신센터,Other
+3747,도시정비기획단,Other
+3748,베드타운,Other
+3749,수인분당선,Other
+3750,아자부다이,Central Government
+3751,힐스,Other
+3752,태양광,Other
+3753,tem,Other
+3754,IFE,Other
+3755,IICC,Other
+3756,K-마,Other
+3757,경기도경제과학진흥원,Public Institution
+3758,중소기업중앙회,Private Sector
+3759,K-마이,Other
+3760,파트너십,Other
+3761,IDC,Other
+3762,LG 씽큐 온,Private Sector
+3763,NX,Other
+3764,하만 인터내셔널,Other
+3765,CBS,Other
+3766,DIP,Other
+3767,대구디지털혁신진흥원(DIP,Public Institution
+3768,대구지역,Other
+3769,에어딥,Other
+3770,유니바,Other
+3771,배리어프리,Other
+3772,다문화사회 연구회,Other
+3773,충주시,Other
+3774,LH토지주택연구원,Public Institution
+3775,회계,Other
+3776,서울관,Other
+3777,스마트시티 서울,Other
+3778,Fis,Other
+3779,정보통신박람회,Private Sector
+3780,대구디지털혁신진흥원(,Public Institution
+3781,호로독,Other
+3782,NUS,Other
+3783,싱가포르국립대,Public Institution
+3784,통신정보부,Central Government
+3785,뉴타운,Other
+3786,롯데센터출장소,Private Sector
+3787,미딩출장소,Other
+3788,총영사관,Other
+3789,코오롱,Other
+3790,롯데몰지점,Private Sector
+3791,남빈증 출장소,Other
+3792,큐링이노스,Other
+3793,onsumer Electronics Show,Other
+3794,삼우이머션,Other
+3795,피티브로,Other
+3796,JV,Other
+3797,NHC,Other
+3798,시티스케이프2024,Other
+3799,주택공사,Other
+3800,국립대,Public Institution
+3801,도시공학,Other
+3802,도시공학과,Other
+3803,㈜씨아이티,Private Sector
+3804,라이얀,Other
+3805,팀네이버-NHC,Private Sector
+3806,5G·6G,Other
+3807,부동산학과,Central Government
+3808,현대차계열사,Private Sector
+3809,㈜도시농사꾼,Private Sector
+3810,BBC,Other
+3811,메디카,Other
+3812,브로츠와프시,Other
+3813,한인회,Other
+3814,알부티,Central Government
+3815,한국대사,Other
+3816,더넥스트에이아이,Other
+3817,아이핀랩스,Other
+3818,AIaa,Other
+3819,국립주택공사,Public Institution
+3820,국립주택공사(NHC,Public Institution
+3821,(주)버시스,Other
+3822,(주)비바이노베이션,Other
+3823,IFEZ관,Other
+3824,재건 협력,Other
+3825,나사,Other
+3826,우주항공청,Central Government
+3827,브루나이,Other
+3828,아세안 정상회의,Other
+3829,유엔사,Other
+3830,태평양 지역,Other
+3831,인태지역,Other
+3832,Summit,Other
+3833,한·아세안 정상회의,Other
+3834,HS효성,Private Sector
+3835,안보협,Other
+3836,국가안보실,Other
+3837,ADB,Other
+3838,㈜글로이앤씨,Private Sector
+3839,㈜동해종합기술공사,Private Sector
+3840,㈜랩피스,Private Sector
+3841,㈜카카오엔터프라이즈,Private Sector
+3842,시민안전센터,Citizen Organization
+3843,진우에이티에스(주),Other
+3844,LX한국국토정보공사(LX),Other
+3845,삼성·,Private Sector
+3846,국립주택공사(NHC),Public Institution
+3847,프로젝터,Other
+3848,K-NIBRT사업단,Other
+3849,국능중전그룹,Other
+3850,정책평가연구원,Other
+3851,지세븐,Other
+3852,커넥트,Other
+3853,하이샹약업,Other
+3854,CONN,Other
+3855,한중,Other
+3856,노키아,Other
+3857,한중 미래첨단,Other
+3858,에너지,Other
+3859,SCIRC,Other
+3860,MS社,Other
+3861,경제청,Central Government
+3862,오케스트로,Other
+3863,CVC,Other
+3864,플랜에이치벤처스,Central Government
+3865,엑스플로인베스트먼트(GS건설,Private Sector
+3866,에이오팜,Other
+3867,인천스마트시티서,Other
+3868,김포공항,Other
+3869,하이파킹,Other
+3870,전자신문,Other
+3871,한화시스템,Private Sector
+3872,한국마이크로소프트,Other
+3873,바이오,Other
+3874,유럽연합(EU),Other
+3875,스마트시티 서밋 이니셔티브,Other
+3876,서밋 이니셔티브 선언,Other
+3877,Fujitsu,Other
+3878,UMC사,Other
+3879,㈜뉴럴디,Private Sector
+3880,㈜마이렌,Private Sector
+3881,㈜티엠씨솔루션즈,Private Sector
+3882,디자인하우스,Other
+3883,리스,Other
+3884,카투㈜,Private Sector
+3885,코코넛사일로㈜,Private Sector
+3886,클라이온,Other
+3887,텐에이젼트㈜,Private Sector
+3888,화주,Other
+3889,벨파스트,Other
+3890,핵테온,Other
+3891,sony,Other
+3892,사이버보안연구센터,Other
+3893,공화당,Other
+3894,송도경제자유구역,Other
+3895,마이렌,Other
+3896,NIA한국지능정보사회진흥원,Public Institution
+3897,에이모,Other
+3898,수자원환경부문장,Central Government
+3899,바르셀로나시,Other
+3900,우고발렌티,Other
+3901,총영사,Other
+3902,카타펄트,Other
+3903,SQI소프트,Other
+3904,빈홈스,Other
+3905,메카,Other
+3906,한중 미래첨단사업,Other
+3907,도시구성원,Other
+3908,투르크멘화학공사,Other
+3909,SDGs,Other
+3910,WISE,Other
+3911,한·중,Other
+3912,에코,Other
+3913,한화자산운용,Private Sector
+3914,신도시건설,Other
+3915,CIET,Other
+3916,양양군,Other
+3917,양양새활용센터,Other
+3918,양양새활용주식회사,Private Sector
+3919,다산네트웍스,Other
+3920,ICISCT,Other
+3921,IEEE,Other
+3922,KMU-TUIT,Other
+3923,TUIT,Other
+3924,국제전기전자공학협회,Other
+3925,글로벌개발협력연구원,Other
+3926,비즈니스IT전문대학원,Academia
+3927,한국국제협력단(KOICA),Other
+3928,글로벌,Other
+3929,IPGD,Other
+3930,교육감,Other
+3931,인빅,Other
+3932,다리소프트,Other
+3933,브이앤지,Other
+3934,쏘우웨이브,Other
+3935,양산시,Other
+3936,양산시장,Other
+3937,콤파스,Other
+3938,제일엔지니어링,Other
+3939,중동 시장,Other
+3940,펜타시큐리티,Other
+3941,정헌재,Other
+3942,양산만,Other
+3943,성남관,Other
+3944,NEOM CITY,Other
+3945,TROJENA,Other
+3946,디스커버리,Other
+3947,바벨 탑,Other
+3948,아라비아만,Other
+3949,아라비아반도,Other
+3950,아카바만,Other
+3951,에픽온,Other
+3952,연안,Other
+3953,요르단강,Other
+3954,클럽,Other
+3955,티그리스강,Other
+3956,해양에너지,Other
+3957,홍해,Other
+3958,휴양리조트,Other
+3959,JETRO,Other
+3960,도쿄무역관,Other
+3961,디지철청,Central Government
+3962,디지털청,Central Government
+3963,로봇산업진흥원,Public Institution
+3964,제주창조경제혁신센터,Other
+3965,개발,Other
+3966,개발청,Central Government
+3967,재건청,Central Government
+3968,프리뉴,Other
+3969,다이내믹스,Other
+3970,IDB,Other
+3971,건설교통부,Central Government
+3972,미주개발은행,Private Sector
+3973,포항사랑카드,Other
+3974,그라운드원,Other
+3975,SCEWC2024,Other
+3976,서초구청,Central Government
+3977,에이트테크부스,Central Government
+3978,스마트시티 서울 정책,Other
+3979,강인아 파이낸셜경제,Other
+3980,석탄공사,Other
+3981,지방시대위,Other
+3982,Fitn,Other
+3983,가브론스카,Other
+3984,엑스포 첫날,Other
+3985,남중국해,Other
+3986,라오스,Other
+3987,공간정보사회연구본부,Other
+3988,한글과컴퓨터,Other
+3989,한컴,Other
+3990,남부권,Central Government
+3991,산업경제위원회,Central Government
+3992,인사위원회,Central Government
+3993,충북도의회,Local Government
+3994,gap,Other
+3995,K-ESL,Other
+3996,LH공사,Public Institution
+3997,SCEW,Other
+3998,비엠 시큐리티,Other
+3999,㈜루트랩,Private Sector
+4000,㈜체리,Private Sector
+4001,디엑스웍스㈜,Private Sector
+4002,디엑스웍스,Other
+4003,<주,Other
+4004,<주>,Other
+4005,한국원자력연구원,Other
+4006,전국,Other
+4007,㈜다원메닥스,Private Sector
+4008,㈜무지개연구소,Private Sector
+4009,㈜인트인,Private Sector
+4010,㈜일만백만,Private Sector
+4011,동인청사,Central Government
+4012,대명,Other
+4013,주야로,Other
+4014,대한전선,Other
+4015,삼원에프에이,Other
+4016,첨단산업국장,Other
+4017,IBK창공,Other
+4018,케이앤어스,Other
+4019,ASTERS,Other
+4020,재건지원팀,Other
+4021,제이솔루션,Other
+4022,무지개연구소,Other
+4023,공간,Other
+4024,International Conference on,Other
+4025,ommunications Technologies 2024,Other
+4026,부산도시공사(BMC,Central Government
+4027,BO,Other
+4028,B&M,Other
+4029,CIO,Other
+4030,MBA,Other
+4031,도심항공모,Other
+4032,매니아,Other
+4033,보잉,Other
+4034,스탠포드대학,Academia
+4035,아메리칸대학,Academia
+4036,조지워싱턴대,Other
+4037,코렌텍,Other
+4038,타이완,Other
+4039,플라나,Other
+4040,항공우주학,Other
+4041,국립치의학연구원,Public Institution
+4042,대한치과협회,Other
+4043,대한치의학회,Other
+4044,부산치과의사회장,Central Government
+4045,치의학연구원,Other
+4046,치의학전문대학원,Academia
+4047,부산대·동아대,Central Government
+4048,마켓앤마켓,Other
+4049,KNN,Other
+4050,부산일보,Central Government
+4051,유치,Other
+4052,MEDICA,Other
+4053,기업협의회,Private Sector
+4054,템즈,Other
+4055,SCEWC24,Other
+4056,nc.,Other
+4057,신트라시,Other
+4058,양산상공회의소,Private Sector
+4059,SLW,Other
+4060,토론회,Other
+4061,ODA,Other
+4062,VKC,Other
+4063,에너지솔루션,Other
+4064,한국학,Other
+4065,KOTRA(,Other
+4066,SG13,Other
+4067,WTSA-,Other
+4068,경찰대학,Academia
+4069,과학치안 아이디어 공모전,Other
+4070,과학치안진흥센터,Other
+4071,소프트웨어융합대학,Academia
+4072,한국과학기술연구원(KIST),Other
+4073,한국컴퓨터정보학회,Other
+4074,SG15,Other
+4075,WTSA 준비회의,Other
+4076,태롱은행,Private Sector
+4077,현대·기아자동차,Private Sector
+4078,와이파이,Other
+4079,YH데이타베이스,Other
+4080,블루센,Other
+4081,오대(대표,Other
+4082,오대,Other
+4083,한국소방기구제작소,Other
+4084,DLR,Other
+4085,가이아엑스,Other
+4086,더아이엠씨,Other
+4087,제다,Other
+4088,DFC,Other
+4089,JBIC,Other
+4090,공동 이니셔티브,Other
+4091,국제개발금융공사(DFC),Other
+4092,네이단,Other
+4093,한·미·일 공동 이니셔티브,Other
+4094,한미일 정상회,Other
+4095,㈜더아이엠씨,Private Sector
+4096,함부르크,Central Government
+4097,부경대학교,Central Government
+4098,소방기구,Other
+4099,ces,Other
+4100,국립주택공사(,Public Institution
+4101,Kara,Other
+4102,교통부장관,Central Government
+4103,카자흐,Other
+4104,복컴,Other
+4105,복합커뮤니티센터,Other
+4106,우체국,Other
+4107,평생교육원,Other
+4108,K-UAM,Other
+4109,K-UAM그랜드챌린지,Other
+4110,WISE캠퍼스,Other
+4111,불교문화대학,Academia
+4112,기술직,Other
+4113,토목직 공무원,Other
+4114,토목직공무원,Other
+4115,삼성종합기술원,Private Sector
+4116,쿠팡,Other
+4117,검찰청,Central Government
+4118,김해상공회의소회장,Private Sector
+4119,김해시,Other
+4120,비서관,Other
+4121,WTSA,Other
+4122,국립전파연구원장,Public Institution
+4123,기술부,Central Government
+4124,이에이,Other
+4125,정보통신산업진흥원(NIPA,Public Institution
+4126,IGIS,Other
+4127,UND,Other
+4128,대구보건대,Other
+4129,대구보건대학교,Academia
+4130,임상병리학과,Other
+4131,<주>릴리커버,Other
+4132,튀르키예,Other
+4133,㈜IGIS,Private Sector
+4134,태국 스마트시티 프로젝트,Other
+4135,㈜IGIS(대표,Private Sector
+4136,㈜UND,Private Sector
+4137,한인무역협회,Other
+4138,(주)IGIS,Other
+4139,스쿨버스,Other
+4140,안랩,Other
+4141,SK E&S,Private Sector
+4142,세종지방법원,Other
+4143,가로림만,Other
+4144,벌천포해수욕장,Other
+4145,현대건설기계,Private Sector
+4146,데이,Other
+4147,함부르크시,Central Government
+4148,6G,Other
+4149,정선군,Other
+4150,일본국제협력은행(JBIC,Private Sector
+4151,한미일 정상회담,Other
+4152,美DFC·日JBIC,Other
+4153,ICT 분야 공동 이니셔티브,Other
+4154,한·미·일 정상회,Other
+4155,씨엔와이더스,Other
+4156,진흥회,Other
+4157,한국광융합산업진흥회,Other
+4158,부산광역시컨소시엄,Central Government
+4159,부산진구청장,Central Government
+4160,아세안 디지털트윈 초청,Central Government
+4161,구룡사,Other
+4162,내년,Other
+4163,서부지역,Central Government
+4164,집행부,Central Government
+4165,남구청장,Central Government
+4166,비츠로시스글로벌인도네시아,Other
+4167,빛과전자,Other
+4168,E.N.SOFT사,Other
+4169,Mossi사,Other
+4170,㈜유엔디,Private Sector
+4171,스타기업관,Private Sector
+4172,세계보건기구(WHO,Other
+4173,도시사업협의회,Other
+4174,스마트도시사업협의회,Other
+4175,세종스마트시티㈜,Private Sector
+4176,CJ제일제당,Private Sector
+4177,HKR,Other
+4178,누리플랜,Other
+4179,두산중공업,Private Sector
+4180,유니슨,Other
+4181,유니슨HKR,Other
+4182,조도,Other
+4183,IOT,Other
+4184,라이트카운팅,Other
+4185,고양특례시장,Other
+4186,China,Other
+4187,CID,Other
+4188,CIDB,Other
+4189,Nan,Other
+4190,건설산업발전위원회,Central Government
+4191,국제건설주간빌드엑스포,Other
+4192,빌드엑스포,Other
+4193,스토니브룩대(,Other
+4194,군위,Other
+4195,군위군,Other
+4196,ASPAC사무총장,Other
+4197,ASPAC회장,Other
+4198,고양특례시-세계지방정부연합,Central Government
+4199,OKTA,Private Sector
+4200,넥센타이어,Other
+4201,두바이상공회의소,Private Sector
+4202,광명3동,Other
+4203,늘빛하늘정원,Other
+4204,효성티앤씨,Private Sector
+4205,고양시공무원노조,Other
+4206,도도마 시청,Central Government
+4207,세계지방정부연합(,Central Government
+4208,대구정책연구원,Other
+4209,삼성창조캠퍼스,Private Sector
+4210,제천시,Other
+4211,도도마,Other
+4212,공공,Other
+4213,공공사업부,Central Government
+4214,하노이시,Other
+4215,라온센티넬,Other
+4216,엔비디아코리아,Other
+4217,CTC,Other
+4218,한국사무소,Other
+4219,도시정보공학과,Other
+4220,미래항공,Other
+4221,에어버스,Other
+4222,한국해양과학기술원(KIOST,Other
+4223,항공우주사업본부,Other
+4224,고천 공업지역,Other
+4225,광주전남지역본부,Other
+4226,의왕도시공사,Other
+4227,한국토지공사,Other
+4228,대구일보,Other
+4229,TP,Other
+4230,KDB자산운용,Other
+4231,Private Partnership,Other
+4232,나카스-바삭세히르,Other
+4233,독립국가연합(CIS),Other
+4234,르네상스,Other
+4235,르네상스사,Other
+4236,한국도로공사?,Other
+4237,한국도로공사?한국해외인프라도시개발지원공사,Other
+4238,경제부지사,Central Government
+4239,포스트 차이나,Other
+4240,KIAMCO,Other
+4241,CJ라이브시티 협약,Private Sector
+4242,미래재단,Public Institution
+4243,부총영사,Central Government
+4244,표명구ㆍ지봉근기자,Other
+4245,잉크,Other
+4246,SSG 랜더스,Other
+4247,DIFA,Other
+4248,제어로봇시스템학회,Other
+4249,한국로봇산업협회,Other
+4250,도시첨단산업단지,Other
+4251,프라도시개발공사,Other
+4252,GSS,Private Sector
+4253,메이지대학,Academia
+4254,고양가구조합,Other
+4255,휴게쉼터 조성공사,Other
+4256,뉴욕주립대,Other
+4257,유타대,Other
+4258,조지메이슨대,Other
+4259,카카오엔터프라이즈,Private Sector
+4260,NMDC,Other
+4261,뉴무라바,Other
+4262,리야드,Other
+4263,마이클 다이크,Other
+4264,무카브,Other
+4265,IT서비스비즈니스연구회,Other
+4266,시찰단,Other
+4267,한국공간정보통신,Private Sector
+4268,강사1리항,Other
+4269,미래항공교통,Other
+4270,KSIC,Other
+4271,청원경찰,Central Government
+4272,Campus Living,Other
+4273,경기창조경제혁신센터,Other
+4274,크레센트컨설팅 파트너,Other
+4275,마스다르시티,Other
+4276,KB국민은행,Private Sector
+4277,강사리항,Other
+4278,마산리항,Other
+4279,이가리항,Other
+4280,가톨릭관동대학교,Academia
+4281,단군,Other
+4282,람보르기니,Other
+4283,레포,Other
+4284,레포레,Other
+4285,볼로냐,Other
+4286,볼로냐시,Other
+4287,on,Other
+4288,레이다,Other
+4289,콘티넨탈,Other
+4290,레이캬비크,Other
+4291,바기오,Other
+4292,코냐,Other
+4293,국토위,Other
+4294,실증단지,Other
+4295,입주대학,Academia
+4296,과학기술원,Other
+4297,eBA,Other
+4298,펌프킨,Other
+4299,한양증권,Other
+4300,한국측,Other
+4301,서울투자청,Central Government
+4302,한-중동,Other
+4303,한국콘텐츠진흥원,Public Institution
+4304,정부역량강화부,Central Government
+4305,한국산업기술시험원,Other
+4306,리콘랩스,Other
+4307,아이온커뮤니케이션즈,Other
+4308,한·중동,Other
+4309,에이치투오호스피,Other
+4310,자이텍스,Other
+4311,정부역,Central Government
+4312,과기정통부]과학기술정보통신부,Central Government
+4313,붕깐주,Other
+4314,서울아산병원,Other
+4315,중앙보훈병원,Other
+4316,한국기계연구원,Other
+4317,헤드마운트디스플레이,Other
+4318,MoU,Other
+4319,완샷씨리,Other
+4320,119상황실,Other
+4321,UNESCAP,Other
+4322,㈜RebootUp,Private Sector
+4323,경제사회위원회,Central Government
+4324,고양특례시청,Central Government
+4325,동국대·,Other
+4326,미래기술체험부,Central Government
+4327,세계도시포럼,Other
+4328,스마트도시연구센터,Other
+4329,중부대,Central Government
+4330,탄소중립녹색성장위원회,Central Government
+4331,펜실베이니아 주립대,Other
+4332,프로그레스,Other
+4333,ICT융합,Other
+4334,㈜Inter-X,Private Sector
+4335,㈜KT,Private Sector
+4336,㈜SK,Private Sector
+4337,㈜샌드박스,Private Sector
+4338,㈜스코넥엔터테인먼트,Private Sector
+4339,㈜이스트소프트,Private Sector
+4340,더샌드박스,Other
+4341,스코넥엔터테인먼트,Other
+4342,ITU '글로벌 표준 심포지엄,Other
+4343,재난관리,Other
+4344,재난관리기금,Other
+4345,재난관리평,Other
+4346,YEEP,Other
+4347,순천향대학교,Academia
+4348,진로융합교육원,Other
+4349,진로창업,Other
+4350,충남교육청,Central Government
+4351,충남교육청진로융합교육원,Central Government
+4352,자치,Other
+4353,광주과학기술원(GIST,Academia
+4354,SDN,Other
+4355,지케스,Other
+4356,숙명여대,Other
+4357,메타버스연구소,Other
+4358,안전문화살롱,Other
+4359,마닐라,Other
+4360,UN-ITU,Other
+4361,ICT융합엑스포,Other
+4362,SK리츠,Private Sector
+4363,프라운호퍼,Other
+4364,포항사랑,Other
+4365,현대위아,Private Sector
+4366,해군,Other
+4367,국립컨벤션센터,Public Institution
+4368,국방장관회,Other
+4369,동아시아정상회의,Other
+4370,WeGO 스마트시티 챔피언즈,Other
+4371,서울런,Other
+4372,손목닥터9988,Other
+4373,주니어,Other
+4374,여사,Other
+4375,동남아연구소,Other
+4376,태 지역,Other
+4377,개도국 공무원,Other
+4378,㈜화이트스캔,Private Sector
+4379,화이트스캔,Other
+4380,무역협회,Other
+4381,어린이정원,Other
+4382,올댓아이엠씨,Other
+4383,국무회의,Other
+4384,방통위원장,Other
+4385,리야드시,Other
+4386,아이야프,Other
+4387,스마트시티 서울 CDO,Other
+4388,서울식물원,Other
+4389,청계천,Central Government
+4390,K콘텐츠,Other
+4391,LVIS,Other
+4392,뮤셈,Other
+4393,뮤셈비나,Other
+4394,구름스튜디오,Other
+4395,아세안 회의,Other
+4396,한·일·중 정상회의,Other
+4397,새만금개발공사,Other
+4398,세안,Other
+4399,한일관,Other
+4400,한일중,Other
+4401,한중관계,Other
+4402,이시바,Other
+4403,경호처,Central Government
+4404,공무원 파견,Other
+4405,구이저우성,Other
+4406,문화체육관광국,Other
+4407,시의회 행정복지위원회,Central Government
+4408,외사교무위원회,Central Government
+4409,인민대표대회,Other
+4410,지휘부,Central Government
+4411,충청권세계대학경기대회,Central Government
+4412,행안위,Other
+4413,韓·아세안,Other
+4414,한·,Other
+4415,UNCLOS,Other
+4416,한-아,Other
+4417,국립세종수목원,Public Institution
+4418,CMIM,Other
+4419,국방장관회의,Other
+4420,유엔-해비타트,Other
+4421,해비타트,Other
+4422,문무대왕과학연구소,Other
+4423,봉화,Other
+4424,울진,Other
+4425,LA부시장,Central Government
+4426,8.15,Other
+4427,동북아시아,Other
+4428,국립재활원,Public Institution
+4429,약자동행기술존,Other
+4430,한-아세안(,Other
+4431,행정복지위원장,Other
+4432,타슈켄트시,Other
+4433,홍콩,Other
+4434,마이무,Other
+4435,고이체프,Other
+4436,불가리아,Other
+4437,소피아시,Other
+4438,국가안보전략연구원,Other
+4439,웨스틴조선호텔,Other
+4440,파하드,Other
+4441,국제,Other
+4442,시카고대,Other
+4443,찬헹치,Other
+4444,S-A2,Other
+4445,AM,Other
+4446,광복절 기념사,Other
+4447,동남아시아연구소,Other
+4448,렉처,Central Government
+4449,태도국,Other
+4450,5+1,Other
+4451,한국영상대,Other
+4452,행정대학원,Academia
+4453,한글문화단지,Other
+4454,하버드대,Other
+4455,한국과학기술원(KAIST),Academia
+4456,Soft,Other
+4457,킹살만파크,Other
+4458,CBO,Other
+4459,강원특별자치도의회,Local Government
+4460,미래도시연구회,Other
+4461,스탠포드대,Other
+4462,스탠포드,Other
+4463,전망대,Other
+4464,경제특구청(BCDA,Central Government
+4465,마닐라전력,Other
+4466,세부에어,Central Government
+4467,카바나투안시,Other
+4468,필리핀상공회의소,Private Sector
+4469,한국농기계협동조합,Other
+4470,한국경제인연합회,Other
+4471,통상산업부,Central Government
+4472,Nuc,Other
+4473,arm,Other
+4474,에너지부,Central Government
+4475,퀘존파워,Other
+4476,후반기,Other
+4477,Cy,Other
+4478,경희대학교,Academia
+4479,프리젠,Other
+4480,한강 드론라이트쇼,Other
+4481,국제포럼,Other
+4482,WHO,Other
+4483,WHO 글로벌 바이오,Other
+4484,산업자원부,Central Government
+4485,산업통상자원부장관,Central Government
+4486,월드헬스시티포럼,Other
+4487,PYC,Other
+4488,모빌리티존,Other
+4489,한국과학기술원,Other
+4490,교육혁신처,Central Government
+4491,오텍,Other
+4492,전북대,Other
+4493,전북대학교,Academia
+4494,과학기술부,Central Government
+4495,재생에너지,Other
+4496,ICT전략연구소장,Other
+4497,더플라자호텔,Other
+4498,전략위원회,Central Government
+4499,한국항공우주산업,Other
+4500,글로벌 바이오,Other
+4501,정보통신부,Central Government
+4502,한국정보통신기술협회(TTA,Private Sector
+4503,게르게이,Other
+4504,문화혁신부,Central Government
+4505,부다페스트,Central Government
+4506,헝가리,Other
+4507,블루밍홀딩스,Other
+4508,셀피글로벌,Other
+4509,씨디에스홀딩스,Other
+4510,원익홀딩스,Other
+4511,주주연대,Citizen Organization
+4512,주주연합,Other
+4513,청구,Central Government
+4514,케어랩스,Other
+4515,테라사이언스,Other
+4516,특별결,Other
+4517,이모빌리티,Other
+4518,이모빌리티 혁신지구,Other
+4519,청년아카데미,Central Government
+4520,한국지역경영원,Other
+4521,횡성,Other
+4522,국립민속무용단,Public Institution
+4523,대전시립교향악단,Other
+4524,대전예술의전당,Other
+4525,WeGO 총회,Other
+4526,국제협의체,Other
+4527,대륙아주,Other
+4528,로스쿨,Other
+4529,마케트대,Other
+4530,사무국,Other
+4531,시티넷,Other
+4532,재판연구원,Other
+4533,지방법원,Other
+4534,서울스마트,Other
+4535,서울스마트도,Other
+4536,IFEZ 스마트시티 리빙랩 시민참여단,Citizen Organization
+4537,리빙랩 앰버서더,Other
+4538,IASP,Other
+4539,경과원,Other
+4540,제진수 경과원,Other
+4541,MGF,Other
+4542,Misk,Other
+4543,Misk 글로벌,Other
+4544,미스크 글로벌,Other
+4545,헌재,Other
+4546,동아일보,Other
+4547,신행정수도건설특별법,Other
+4548,제공인천경제청,Central Government
+4549,글로벌전략오피스(GSO),Private Sector
+4550,미스크 재단,Public Institution
+4551,상무,Other
+4552,글로벌전략오피스,Other
+4553,조세ㆍ국제통상 팀장,Other
+4554,BNK부산은행,Central Government
+4555,CP,Other
+4556,KBS,Other
+4557,고신대,Other
+4558,글로벌탑넷,Other
+4559,대양고,Other
+4560,채널A,Other
+4561,SBA,Other
+4562,백석도서관,Other
+4563,성사혁신지구,Other
+4564,카인드,Other
+4565,스페이스 위콤보,Other
+4566,위덕대학교,Academia
+4567,인사채용부,Central Government
+4568,근로복지공단,Public Institution
+4569,서,Other
+4570,효자중,Other
+4571,대구수성알파시티,Other
+4572,GM사,Other
+4573,NACTO,Other
+4574,건설환경종합연구소,Other
+4575,보행환경연구센터,Other
+4576,Mou,Other
+4577,제공안양시,Other
+4578,(재)대구디지털혁신진흥원,Public Institution
+4579,(재)대구테크노파크,Other
+4580,(재)신용보증기금,Other
+4581,GAIA-X,Other
+4582,㈜더샌드박스,Private Sector
+4583,극동대,Other
+4584,니랏 퐁싯티타원,Other
+4585,충북문화재단,Public Institution
+4586,치앙마이,Other
+4587,치앙마이주,Other
+4588,퐁싯티타원,Other
+4589,(주)KT,Private Sector
+4590,(주)SK,Private Sector
+4591,(주)스코넥엔터테인먼트,Other
+4592,국제전기통신연합(ITU,Private Sector
+4593,ET,Other
+4594,산업부총리,Central Government
+4595,알카닥 신도시,Other
+4596,한-중앙아 정상회의,Other
+4597,지역개발부,Central Government
+4598,체코 프라하,Other
+4599,한-체코 스마트시티,Other
+4600,플젠,Other
+4601,KBU,Other
+4602,교육국제,Other
+4603,디지털트윈연구원,Other
+4604,일반재정지원대학,Academia
+4605,국군방첩사령부,Central Government
+4606,국가사이버안보센터장,Other
+4607,HLB일렉,Other
+4608,PT.,Other
+4609,텔콤,Other
+4610,텔콤셀,Other
+4611,공정위,Other
+4612,알에프세미,Other
