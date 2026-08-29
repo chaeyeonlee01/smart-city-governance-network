@@ -129,40 +129,17 @@ Shortest paths between citizen-participation organizations and policy-related ac
 
 ---
 
-## Full Analysis
+## Research Implications
 
-The full report contains the complete analytical process, including:
+The findings highlight three structural characteristics of South Korea's smart-city governance network:
 
-- network construction and preprocessing
-- rule-based stakeholder classification
-- centrality calculations and distributions
-- stakeholder-level comparisons
-- Gephi network visualizations
-- modularity-based community detection
-- regional community analysis
-- social-capital structure comparison
-- citizen-to-policy shortest-path analysis
-- policy implications
-- research limitations and future research directions
+1. **Citizen participation remains structurally peripheral.**  
+   Citizen organizations and local governments showed relatively limited direct connectivity, suggesting that participatory governance mechanisms may not yet translate into equally central network positions.
 
-### [View the Full HTML Report →](https://chaeyeonlee01.github.io/smart-city-governance-network/)
+2. **Regional governance structures require differentiated strategies.**  
+   The detected communities exhibited heterogeneous patterns of internal cohesion, external connectivity, and stakeholder composition, indicating that a uniform governance model may not be appropriate across regions.
 
-For the underlying Quarto source:
+3. **Intermediary organizations can serve as structural bridges.**  
+   Living Labs, Urban Regeneration Support Centers, and Creative Economy Innovation Centers emerged as important intermediaries in citizen-to-policy pathways, suggesting potential intervention points for strengthening connections between civic and policy actors.
 
-[View the QMD Source](./smart-city-network-analysis.qmd)
-
----
-
-## Interpretation Note
-
-The network is constructed from **organizational co-occurrence in news articles**. An edge therefore indicates that two organizations appeared in the same article and should not automatically be interpreted as evidence of a formal partnership or direct institutional collaboration.
-
-Centrality measures describe structural positions within the observed network rather than legal authority, actual decision-making power, or the quality of collaboration.
-
----
-
-## References
-
-The full report contains the complete references for the theoretical and methodological foundations of the analysis, including social network analysis, brokerage and closure, modularity, smart-city governance, and Korean smart-city policy.
-
-See the **[Full Analysis](https://chaeyeonlee01.github.io/smart-city-governance-network/)** for the complete reference list.
+Overall, the analysis demonstrates how network-based methods can reveal **structural disparities, regional governance patterns, and potential bridging mechanisms** within complex smart-city policy ecosystems.
