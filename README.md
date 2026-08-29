@@ -4,7 +4,7 @@
 
 An empirical network analysis of South Korea's smart-city governance ecosystem, examining the structural positions of civic and local-government actors, regional collaboration patterns, and citizen-to-policy pathways.
 
-**[View the Full Analysis →](./smart-city-network-analysis.html)**
+**[View the Full Analysis →](https://chaeyeonlee01.github.io/smart-city-governance-network/)**
 
 ---
 
@@ -145,7 +145,7 @@ The full report contains the complete analytical process, including:
 - policy implications
 - research limitations and future research directions
 
-### [View the Full HTML Report →](./smart-city-network-analysis.html)
+### [View the Full HTML Report →](https://chaeyeonlee01.github.io/smart-city-governance-network/)
 
 For the underlying Quarto source:
 
@@ -165,4 +165,4 @@ Centrality measures describe structural positions within the observed network ra
 
 The full report contains the complete references for the theoretical and methodological foundations of the analysis, including social network analysis, brokerage and closure, modularity, smart-city governance, and Korean smart-city policy.
 
-See the **[Full Analysis](./smart-city-network-analysis.html)** for the complete reference list.
+See the **[Full Analysis](https://chaeyeonlee01.github.io/smart-city-governance-network/)** for the complete reference list.
